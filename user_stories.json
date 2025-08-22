@@ -1,0 +1,1403 @@
+{
+  "310350": [
+    {
+      "userStory": "As a student, I want to see how long a study room is available so that I can choose one and study accordingly."
+    },
+    {
+      "userStory": "As a user, I want to filter products in a price range, so that I can find one within my budget."
+    }
+  ],
+  "315594": [
+    {
+      "userStory": "As a user, I want to see a motivating message when I complete a task, so that it motivates me to complete the remaining tasks"
+    },
+    {
+      "userStory": "As a user, I want to be able to launch a timer whenever I'm working on a task, so that I can track the total time spent on each task and better manage my time"
+    }
+  ],
+  "315696": [
+    {
+      "userStory": "As a user, I want to set reminders for my ToDos so that I receive notifications when a task is due."
+    },
+    {
+      "userStory": "As a user, I want to set recurring ToDos (e.g., daily, weekly, monthly) so that I can automatically keep track of repetitive tasks without creating them manually each time."
+    }
+  ],
+  "316029": [
+    {
+      "userStory": "As a busy student, I want the app to categorize my tasks by urgency and importance so that I can focus on the most urgent tasks first."
+    },
+    {
+      "userStory": "As an unorganized student, I want the app to automatically transfer due dates to my calendar so that I can see them on my lock screen."
+    }
+  ],
+  "324390": [
+    {
+      "userStory": "As a user, I want to be able to create a new task with a title and optional description so that I can keep track of things I need to accomplish. -> Acceptance Criteria:  - A user can enter a task title (required) and an optional description. - The task is added to the list of active tasks once created. - The user receives confirmation that the task has been successfully added."
+    },
+    {
+      "userStory": "As a user, I want to be able to mark tasks as completed so that I can visually track my progress and know which tasks are done.  -> Acceptance Criteria:   - A user can click a checkbox or button next to a task to mark it as completed. - Completed tasks should be visually differentiated from incomplete tasks (e.g., strike-through, moved to a \\"
+    }
+  ],
+  "325520": [
+    {
+      "userStory": "As a sociable user, I want to access my friends' ToDo list, so that I can join them in some of their activities."
+    },
+    {
+      "userStory": "As a user, I want to personalize my ToDos with emotes, so I can easily find them and know what activity they correspond to."
+    }
+  ],
+  "326477": [
+    {
+      "userStory": "As a new user, I want to be able to sign up using my Google account so that I can quickly create an account without filling out long forms."
+    },
+    {
+      "userStory": "As a current user, I want to be able to set up a password after signing up with my Google account without losing my previous account"
+    }
+  ],
+  "327057": [
+    {
+      "userStory": "As a user, I want to be able to order my to-do list by priority so that I can see what tasks are most important."
+    },
+    {
+      "userStory": "As a user, I want to be able to delete my to-dos so that I can remove tasks that are no longer relevant."
+    }
+  ],
+  "327530": [
+    {
+      "userStory": "As a user, I want to be able to set priority levels for my ToDos, so that I triage which to actually do when short on time."
+    },
+    {
+      "userStory": "As a user, I want to be able to set deadlines for my ToDos, so that I can now which are pressing and which can be delayed"
+    }
+  ],
+  "328216": [
+    {
+      "userStory": "As a user, I would like to create multiple task lists such that I can organize my tasks by different projects or categories."
+    },
+    {
+      "userStory": "As a user, I want to set reminders for my tasks such that I can ensure I never forget important deadlines."
+    },
+    {
+      "userStory": "As a user, I want to see my tasks."
+    },
+    {
+      "userStory": "As a user, I want to track my completed tasks so that I can measure my productivity."
+    },
+    {
+      "userStory": "As a user, I want to collaborate with my friends on tasks."
+    }
+  ],
+  "328225": [
+    {
+      "userStory": "As a user, I want to assign priority levels (e.g., high, medium, low) to my tasks so that I can focus on the most important tasks first."
+    },
+    {
+      "userStory": "As a user, I want to filter my tasks by completed, pending, or overdue status so that I can quickly see what I still need to do."
+    }
+  ],
+  "328412": [
+    {
+      "userStory": "As a busy person, I want to be reminded to do certain tasks, so that I don't forget them."
+    },
+    {
+      "userStory": "As an organised person, I want to add categories to my tasks, so that I can sort them."
+    }
+  ],
+  "329732": [
+    {
+      "userStory": "As a user, I want to tag my tasks and filter them according to the tags, so that I can choose the project on which I work."
+    },
+    {
+      "userStory": "As a user, I want to set a due date on my tasks, so that I can work on urgent tasks first."
+    }
+  ],
+  "329743": [
+    {
+      "userStory": "As a busy user, I want to login to my account with One tap to save my time."
+    },
+    {
+      "userStory": "As a travelling businessman, I want to know where I wrote each of my To-Do so that I can remember the context."
+    }
+  ],
+  "330258": [
+    {
+      "userStory": "As a user, I want to create and manage custom hierarchical categories for my ToDos (e.g., \\"
+    },
+    {
+      "userStory": "As a user, I want to track my progress in completing ToDos within their specified due dates, so that I can identify areas where I need to improve my time management and productivity."
+    }
+  ],
+  "332446": [
+    {
+      "userStory": "As a user of the ToDoApp, I want to be able to get notifications on my phone when the deadline of the task is close so that I do not forget it."
+    },
+    {
+      "userStory": "As a user, I want to be able to create, rename, and delete folders to organize my to-do lists into different categories, so that I can manage my tasks more efficiently and stay organized."
+    }
+  ],
+  "339364": [
+    {
+      "userStory": "As a user I want to change the status of my tasks so that I can track their progress."
+    },
+    {
+      "userStory": "As a user I want to receive 2 daily notifications to remind me of the tasks that need to be done."
+    }
+  ],
+  "339394": [
+    {
+      "userStory": "As a user, I want to receive notifications as reminders when I am close to a deadline so that I can complete my task on time."
+    },
+    {
+      "userStory": "As a user, I want to see the percentage of my tasks completed on a colorful progress diagram displayed on my screen, and be rewarded with a sparkling animation of confetti whenever I complete a task, so that I can both track my progress and feel motivated."
+    }
+  ],
+  "339511": [
+    {
+      "userStory": "As a busy professional, I want to create and categorize tasks in my To-Do list so that I can organize my day efficiently and prioritize my work."
+    },
+    {
+      "userStory": "As a forgetful user, I want to receive daily reminders for overdue tasks so that I can stay on top of my to-do list and not miss any important deadlines."
+    }
+  ],
+  "339607": [
+    {
+      "userStory": "As a user, I want to be able to add certain To-Dos to my public profile, so that I can share my tasks with my friends"
+    },
+    {
+      "userStory": "As a user, I want to be able to create group folders and classify my To-Dos, so that I can organise my tasks between different projects"
+    }
+  ],
+  "339715": [
+    {
+      "userStory": "As a user, i want to reminders my to-dos, so that i can be reminded before task is due."
+    },
+    {
+      "userStory": "As a user, i want to delete my to-dos, so that i can delete task that is completed or no longer needed."
+    }
+  ],
+  "339718": [
+    {
+      "userStory": "As a user, I want to add tags to my to-do's so that I can better search and filter my to-do's."
+    },
+    {
+      "userStory": "As a user, I want to be able to have multi-stage to-do's so I can add more complex and layered tasks to the app."
+    }
+  ],
+  "339815": [
+    {
+      "userStory": "As a user, I want to group my tasks into categories, so that I can organize my tasks purposefully."
+    },
+    {
+      "userStory": "As a user, I want to receive a notification when a task is due, so that I can complete it on time."
+    }
+  ],
+  "339839": [
+    {
+      "userStory": "As a user, I want to set reminders for my tasks so that I don’t miss important deadlines and stay organized"
+    },
+    {
+      "userStory": "As a user, I want to be able to attach files or images to my tasks so that I can reference important documents or visuals directly within the app."
+    }
+  ],
+  "340059": [
+    {
+      "userStory": "As a user, I want to mark the progress of a to do, so that I can see at a glance whether the task is in progress, finished, or haven't started yet."
+    },
+    {
+      "userStory": "As a user, I want to mark the priority tasks, so that I can check the important tasks easily."
+    }
+  ],
+  "340060": [
+    {
+      "userStory": "As a user, I want to be able to set priority for each to-do so that I can decide which one to do first."
+    },
+    {
+      "userStory": "As a user, I want to be able to set due date for each to-do so that I can know when to finish it."
+    }
+  ],
+  "340946": [
+    {
+      "userStory": "As a user, I want to do lists to be collaborative, so that I can share goals with my team and colleagues."
+    },
+    {
+      "userStory": "As a user, I want to be notified when it is time for one of my task, so that I never forget any important meeting or deadline."
+    }
+  ],
+  "341201": [
+    {
+      "userStory": "As a user, I want to set recurring to-dos, so that I can automate repetitive tasks."
+    },
+    {
+      "userStory": "As a user, I want to assign a priority level to my to-dos, so that I can focus on the most important tasks first."
+    }
+  ],
+  "341205": [
+    {
+      "userStory": "As a user, I want to be able to share my to-dos with others so that I can delegate tasks to others."
+    },
+    {
+      "userStory": "As a user, I want to be able to receive notifications about my to-dos so that I can be reminded to complete them."
+    }
+  ],
+  "341415": [
+    {
+      "userStory": "As a student, I want folders for to-dos so that I organize them by course or project."
+    },
+    {
+      "userStory": "As a student, I want notifications to remind me of the due dates of a to-dos so that I don't forget to submit my work before a deadline."
+    }
+  ],
+  "341467": [
+    {
+      "userStory": "As a user, I want to be able to lock some ToDos with my phone's authentication method, so that only I can see them."
+    },
+    {
+      "userStory": "As a user, I want to be able to share a ToDO with another registered user of the app, so that we can collaborate on it."
+    }
+  ],
+  "341660": [
+    {
+      "userStory": "As a user, I want to set reminders for my to-dos so that I am notified when a task is approaching its due date."
+    },
+    {
+      "userStory": "As a user, I want to organize my to-dos by categories so that I can easily manage and filter my tasks."
+    }
+  ],
+  "341957": [
+    {
+      "userStory": "As a user, I want to share my to-dos with my friends so that they can have the same tasks as I do."
+    },
+    {
+      "userStory": "As a user, I want to receive reminder notifications about my to-dos so that I don’t forget them even when I don’t open the app."
+    }
+  ],
+  "341981": [
+    {
+      "userStory": "As a user, I want to organize my ToDos by priority so that I can see the most important ones first."
+    },
+    {
+      "userStory": "As a user, I want to create different lists of ToDos so that I can distinguish between work and personal tasks."
+    }
+  ],
+  "341989": [
+    {
+      "userStory": "As a user, I want to set priority levels for my tasks, so that I can focus on completing the most important ones first."
+    },
+    {
+      "userStory": "As a user, I want to receive encouraging notifications when I complete tasks, so I feel motivated to keep using the app."
+    }
+  ],
+  "342062": [
+    {
+      "userStory": "As a user, I want to be able to share certain TODO tasks so that I can coordinate tasks with multiple people at the same time."
+    },
+    {
+      "userStory": "As a user, I want to be able to assign level of importance on my tasks so that I can better prioritize my time."
+    }
+  ],
+  "342289": [
+    {
+      "userStory": "As a new user, I want to have an intuitive interface so that I don't lose time in a tutorial."
+    },
+    {
+      "userStory": "As a old grandpa, I want the application to read out loud my notes so that my viewing impairment doesn't stop me from using the application."
+    }
+  ],
+  "342605": [
+    {
+      "userStory": "As a user, I want to be able to share my ToDos with other peers so that I can collaborate with them on the same project."
+    },
+    {
+      "userStory": "As a user, I want to be able to have and set deadlines for my ToDos so that I can see the time frame I have to complete them."
+    }
+  ],
+  "342757": [
+    {
+      "userStory": "As a user, I want to mark my tasks as complete, so that I can track the progress of my tasks."
+    },
+    {
+      "userStory": "As a user, I want to color the tasks so that I can categorize my tasks."
+    }
+  ],
+  "342896": [
+    {
+      "userStory": "As a user, I want to receive reminder notifications for my ToDos, so that I can be alerted about upcoming tasks without needing to open the app."
+    },
+    {
+      "userStory": "As a user, I want to share my ToDos with others, so that I can collaborate on tasks or delegate them efficiently."
+    }
+  ],
+  "344200": [
+    {
+      "userStory": "As a user, I want to filter or search my ToDos, so that I can quickly find specific tasks by name, category, or date."
+    },
+    {
+      "userStory": "As a user, I want to share my ToDos with other users, so that we can collaborate on tasks or projects."
+    }
+  ],
+  "344314": [
+    {
+      "userStory": "As a user, I want to receive notifications reminding me of my unfinished to-dos for the day, so that I don't forget to complete them on time."
+    },
+    {
+      "userStory": "As a user, I want to mark a to-do as done and earn fictional points, so that I stay motivated to complete my tasks."
+    }
+  ],
+  "344316": [
+    {
+      "userStory": "As a user, I want to set reminders for my to-dos, so that I get notified about tasks before they are due."
+    },
+    {
+      "userStory": "As a user, I want to organize my to-dos using categories or tags, so that I can easily group and filter tasks based on their type or priority."
+    }
+  ],
+  "344697": [
+    {
+      "userStory": "As an admin, I want to view a summary of users who logged in with Google, including their email and location, with the option to filter by region and export the summary as a CSV, so that I can analyze where the app is being used."
+    },
+    {
+      "userStory": "As a user, I want to receive a confirmation notification after logging in with my Google account so that I can ensure the login was successful."
+    }
+  ],
+  "345101": [
+    {
+      "userStory": "As a user, I want to get notified one day before my to-dos' due dates, so that I don't forget about them."
+    },
+    {
+      "userStory": "As a user, I want my achieved to-dos to be put in a separate list, so that I keep up with what has and still hasn't been done."
+    }
+  ],
+  "345159": [
+    {
+      "userStory": "As a user, I want to mark a task as completed, so that I can visually track which tasks I have finished."
+    },
+    {
+      "userStory": "As a user, I want to set a due date for each task, so that I can prioritize tasks based on deadlines."
+    }
+  ],
+  "345164": [
+    {
+      "userStory": "As a user, I want to prioritize my to-dos, so that I can work on my most important or urgent ones, making it easier to concentrate on the essentials."
+    },
+    {
+      "userStory": "As a user, I want to receive notifications on short deadlines, so that I can stay on track with my schedule."
+    }
+  ],
+  "345232": [
+    {
+      "userStory": "as a team leader , I want to share my tasks to other persons so that we can manage tasks as a team"
+    },
+    {
+      "userStory": "as a absent-minded person, I want reminder notifications for the tasks which the due date is coming soon so that I don't forget to do them"
+    }
+  ],
+  "345291": [
+    {
+      "userStory": "As a user, I want to share my ToDos with my friends, so that we can work on a common project."
+    },
+    {
+      "userStory": "As a user, I want a history of my ToDos, so that I can keep track of my productivity."
+    }
+  ],
+  "345375": [
+    {
+      "userStory": "As a power user, I want to be able to create multiple lists of ToDos so that I can sort and organise my tasks by type."
+    },
+    {
+      "userStory": "As a busy user, I want to be able to set a deadline for my tasks and export them in my usual calendar app so that I can visualise my deadlines."
+    }
+  ],
+  "345472": [
+    {
+      "userStory": "As a user, I want to organise my ToDos by topics, so that I can easily organise and filter them."
+    },
+    {
+      "userStory": "As a user, I want to be able to share my ToDos with other users, so that I can collaborate on them."
+    }
+  ],
+  "345507": [
+    {
+      "userStory": "As an indecisive user, I wish I could talk to an AI through the app so that it could help me organise my \\"
+    },
+    {
+      "userStory": "As a manager, I would like to be able to create groups and assign ToDos to my team to improve collaboration"
+    }
+  ],
+  "345556": [
+    {
+      "userStory": "As a user, I want to set deadlines for my to-dos, so that I can make sure I complete them in time."
+    },
+    {
+      "userStory": "As a user, I want to rate my to-dos on a scale from 1 to 5, so that I can prioritize and choose the order in which to complete them."
+    }
+  ],
+  "345769": [
+    {
+      "userStory": "As a user, I want to sort the ToDos by their due date, so that I can prioritise tasks that are approaching their deadline and stay organised."
+    },
+    {
+      "userStory": "As a user, I want to mark ToDos as done, so that I can track which tasks are completed, pending, or overdue."
+    }
+  ],
+  "346017": [
+    {
+      "userStory": "As a user, I want to share a ToDo with other users, so that we can collaborate on tasks."
+    },
+    {
+      "userStory": "As a user, I want to archive completed ToDos, so that I can keep my list of tasks clean and organized."
+    }
+  ],
+  "346148": [
+    {
+      "userStory": "As a user, I want to be reminded for my upcoming deadlines/ToDos so that I can stay on track with my work. Acceptance criteria: 1. The user should be able to set a deadline for each ToDo. 2. The user should be able to set a reminder for each ToDo. 3. The user should receive a notification when the deadline is approaching (customizable : 1 day before/2 hours before/etc.). 4. The user should receive a notification when the reminder time is reached/passed and the task still hasn't been completed. 5. The user should be able to see the list of upcoming deadlines in the app."
+    },
+    {
+      "userStory": "As a user, I want to be able to add people to each ToDo, so that I can collaborate with others on my work and make the tasks appear in their app. Acceptance criteria: 1. The user should be able to add existing users and external users (inviting them to sign-up to the app) via email to each ToDo. 2. The user should be able to see the list of people added to each ToDo. 3. The people added to a ToDo should be able to see the ToDo in their app. 4. The people added to a ToDo should be able to update its status (mark as ongoing, completed, etc.). 5. The people added to a ToDo should receive notifications for the ToDo's deadlines and reminders."
+    }
+  ],
+  "346469": [
+    {
+      "userStory": "As a user with a busy schedule, I want to categorize my ToDos by priority so that I can better focus on urgent and important tasks."
+    },
+    {
+      "userStory": "As an absent-minded person, I want to receive a reminder for my Todos when they are due, so that I don't miss any important tasks."
+    }
+  ],
+  "346481": [
+    {
+      "userStory": "As a user, I want to be able to archive a ToDo, so that I can keep a ToDo for later without this ToDo distracting me from the other ToDo."
+    },
+    {
+      "userStory": "As a user, I want to be able to reorder the ToDos, so that I can order my ToDos depending on their priority to improve my organization."
+    }
+  ],
+  "346511": [
+    {
+      "userStory": "As a user, I want to have a calendar view for my tasks, so that I can easily plan and see what I have to do on a specific day."
+    },
+    {
+      "userStory": "As a user, I want to organize my tasks with labels, so that I can easily find all tasks related to a specific topic."
+    }
+  ],
+  "346571": [
+    {
+      "userStory": "As a user, I want to sort my ToDos by due date, so that I can prioritize the most urgent tasks on my list."
+    },
+    {
+      "userStory": "As a user, I want to modify my ToDos, so that I can fix mistakes I made while creating them."
+    }
+  ],
+  "346586": [
+    {
+      "userStory": "As a user, I want to mark a task as complete so that I know I've done it."
+    },
+    {
+      "userStory": "As a user, I want to set different priority to my tasks so that I can focus on the most important ones."
+    }
+  ],
+  "346838": [
+    {
+      "userStory": "As a user, I want to add a tag to some of my To-Dos and filtering, so that I can filter them by their tag."
+    },
+    {
+      "userStory": "As a user, I want to sort my To-Dos, so that the most important for me appears on top."
+    }
+  ],
+  "346981": [
+    {
+      "userStory": "As a user, I want to share my To-Do list with other people, so that I can split tasks to be done in the office with my coworkers. Acceptance criteria: - The To-Do appears as \\"
+    },
+    {
+      "userStory": "As a user, I want to have a calendar with my To-Do's where bullets appear at the time of their due date, so that I know where I stand on my schedule and I can organize my time better. Acceptance criteria: - The bullets appear with their respective To-Do title, and with its To-Do associated color to differentiate same bullets in different lists). - The bullets are duplicable for other days by clicking on a button in their details page (with the choice of them being in the same To-Do or not), to handle weekly or daily chores for example. - Bullets can be postponed (button in the details page), if the user missed the due date. - A notification is sent to the user (they can disable them in settings) if a bullet's due date is in less than one day."
+    }
+  ],
+  "347041": [
+    {
+      "userStory": "As a user, I want to receive reminders for my to-dos so that I can meet deadlines effectively."
+    },
+    {
+      "userStory": "As a user, I want to set recurring to-dos so that tasks that repeat daily, weekly, or monthly are automatically created."
+    }
+  ],
+  "347105": [
+    {
+      "userStory": "As a team member user, I want to share specific to-dos with other users so that we can collaborate on tasks and complete them together."
+    },
+    {
+      "userStory": "As a routine-driven user, I want to set recurring to-dos for tasks that happen regularly so that I don’t have to manually create the same task over and over again."
+    }
+  ],
+  "347124": [
+    {
+      "userStory": "As a user, I want to set reminders for my ToDos, so that I can be notified about tasks before their due dates."
+    },
+    {
+      "userStory": "As a user, I want to create recurring ToDos, so that I don't have to manually create new ToDos for repetitive tasks."
+    }
+  ],
+  "347219": [
+    {
+      "userStory": "As a user, I want to set reminders to my todos, so that I don't forget important tasks."
+    },
+    {
+      "userStory": "As a user, I want to search for todos by keyword, so that I can quickly find a specific tasks."
+    }
+  ],
+  "347407": [
+    {
+      "userStory": "As a user, I want to assign priority levels (e.g., \\"
+    },
+    {
+      "userStory": "As a user, I want to assign locations to my to-dos and view them on a map, so that I can efficiently plan my work based on their geographical proximity."
+    }
+  ],
+  "347446": [
+    {
+      "userStory": "As a user, I want to assign a priority to my to-dos so that I can quickly identify the most important tasks."
+    },
+    {
+      "userStory": "As a user, I want to receive a notification when a pending task is about to be overdue so that I do not miss or forget a task."
+    }
+  ],
+  "347477": [
+    {
+      "userStory": "As a team member, I want to share tasks with my colleagues so that we can collaborate on projects more effectively."
+    },
+    {
+      "userStory": "As a user, I want to receive reminders for upcoming tasks so that I don't miss important deadlines."
+    }
+  ],
+  "347492": [
+    {
+      "userStory": "As a user, I want to be able to filter tasks by time consumption, so that I can chose a task compatible with my available time."
+    },
+    {
+      "userStory": "As a user, I want to assign a priority level to tasks, so that I can focus on tasks with highest prority."
+    }
+  ],
+  "347508": [
+    {
+      "userStory": "As a user I would like to be able to have a way to assign a priority to some tasks so that I can better know throughout the day which task should be given higher priority"
+    },
+    {
+      "userStory": "As a user I would like to be able to set due date for my todo and have a notification system which would remind me when a task is about to be overdue, so that I can avoid forgetting to complete tasks."
+    }
+  ],
+  "347516": [
+    {
+      "userStory": "As a user, I want to set a priority level for each to-do, so that I can organize my tasks based on their importance. Acceptance Criteria: 1. The user can select from priority levels (High, Medium, Low) when creating a to-do. 2. The priority is displayed next to the to-do in the list. 3. The to-do list can be filtered or sorted by priority."
+    },
+    {
+      "userStory": "As a user, I want to receive notifications for upcoming to-do due date, so that I can complete tasks on time. Acceptance Criteria: 1. The user can enable or disable notifications for a specific to-do. 2. A notification is triggered a set time before the due date. 3. Notifications display the title and due date of the to-do."
+    }
+  ],
+  "347572": [
+    {
+      "userStory": "As an older user, I want to be able to calibrate the font size to be able to read the content the application is showing me better."
+    },
+    {
+      "userStory": "As a user I want to be able to create a hierarchy of to dos so I can have my shopping as a to do and the shopping list inside that to do."
+    }
+  ],
+  "355522": [
+    {
+      "userStory": "As a new user, I want to be shown a tour of the app's features, so that I can quickly start using the app properly."
+    },
+    {
+      "userStory": "As a user that uses the app both privately and at work, I want to create and switch between multiple profiles, so that I can sort ToDos by context."
+    }
+  ],
+  "355627": [
+    {
+      "userStory": "As a user, I want a team tab so that I can have a To-Do list where all the members of my team can see the objectives of the project."
+    },
+    {
+      "userStory": "As a user, I want a phone widget so that I can see my tasks directly on my home screen when I open my phone."
+    }
+  ],
+  "355664": [
+    {
+      "userStory": "As a user, I want to have a notification when I am close to one of my to-dos on the map, so that I can take advantage of being close to my task to do it quickly."
+    },
+    {
+      "userStory": "As a user, I want to have a \\"
+    }
+  ],
+  "355677": [
+    {
+      "userStory": "As a user, I want to be able to prioritize my task list so that I can focus on the most important one."
+    },
+    {
+      "userStory": "As member of a team, I want to be able to assign tasks to other team members so that we can work together."
+    }
+  ],
+  "355687": [
+    {
+      "userStory": "As a user, I want to set reminders for my ToDos, so that I don't miss important deadlines."
+    },
+    {
+      "userStory": "As a user, I want to set priority levels for my ToDos, so that I can focus on the most important tasks."
+    }
+  ],
+  "355689": [
+    {
+      "userStory": "As a user, I want to assign a priority level to my tasks so that I can focus on completing the most important ones first."
+    },
+    {
+      "userStory": "As a user, I want to set reminders for my tasks so that I receive notifications and do not forget to complete them on time."
+    }
+  ],
+  "355731": [
+    {
+      "userStory": "As a user, I want to receive notifications for upcoming ToDos, so that I am reminded to complete tasks on time."
+    },
+    {
+      "userStory": "As a user, I want to create recurring ToDos, so that I don’t have to manually create the same task every time it repeats."
+    }
+  ],
+  "355739": [
+    {
+      "userStory": "As a user, I want to export my ToDos as a CSV or PDF file so that I can share or print my task lists."
+    },
+    {
+      "userStory": "As a user, I want to pin specific ToDos to the top of my list so that I can always see my most important tasks first."
+    }
+  ],
+  "355741": [
+    {
+      "userStory": "As a user, I want to be able to create a shared to-do list with my flatmates, so that we can all see what needs to be done in the apartment."
+    },
+    {
+      "userStory": "As a user, I want to be able to assign a music playlist to each to-do list, so that I can listen to it while completing the tasks."
+    }
+  ],
+  "355929": [
+    {
+      "userStory": "As a user, I want to share my to-dos, so that I can set my objectives with my team."
+    },
+    {
+      "userStory": "As a user, I want to have a home screen widget showing my tasks, so that I can access my tasks without opening the app."
+    }
+  ],
+  "355938": [
+    {
+      "userStory": "As a user from EPFL, I want to sign-up and login using my Tequila identifiers, so that I can work around my weekly schedule."
+    },
+    {
+      "userStory": "As a user with ADHD, I want to receive reminder notifications at a chosen frequency, so that I do not forget my tasks or feel pressured by deadlines."
+    }
+  ],
+  "355965": [
+    {
+      "userStory": "As a user, I want to have time slots for the different to-dos I have, such that I can plan when to do those throughout my day."
+    },
+    {
+      "userStory": "As a user, I want to receive notifications about my to-dos, such that I can be reminded of the to-dos."
+    }
+  ],
+  "356004": [
+    {
+      "userStory": "As a new user, I want to add time alarm some to to-do activities so that I will no forget to do important part of the to-do list."
+    },
+    {
+      "userStory": "As a user, I want to create a hierarchy of activities so that I can easily see which activities should be done first."
+    }
+  ],
+  "356008": [
+    {
+      "userStory": "As a user, I want to be notified about potential undone tasks a few hours before the end of the day. This way I am sure to not forget task, without systematically having to open the app."
+    },
+    {
+      "userStory": "As a totally normal user, I want to be able to create secret tasks that can only be seen after entering a dedicated passcode so my completely acceptable daily tasks are not accessible to anyone who has access to my unlocked phone."
+    }
+  ],
+  "356029": [
+    {
+      "userStory": "As a user, I want to set reminders for my to-dos, so that I can be notified about important tasks and deadlines"
+    },
+    {
+      "userStory": "As a user, I want to categorize my to-dos with tags and labels, so that I can easily organize and filter my tasks based on different criteria."
+    }
+  ],
+  "356106": [
+    {
+      "userStory": "As a user, I want to be able to set a reminder time and have reminders for my tasks to do so that I can receive notifications about deadlines or alerts at the specified time."
+    },
+    {
+      "userStory": "As a user, I want to categorize my tasks so that I can organize them by type or group and filter them easily."
+    }
+  ],
+  "356158": [
+    {
+      "userStory": "As a user, I want to work collaboratively on to-do lists so that I can share tasks with others, assign tasks to others, and track progress on tasks."
+    },
+    {
+      "userStory": "As a user, I want my to-do lists to offer personalized task suggestions based on my routine and habits so that I don't have to input every recurring task manually."
+    }
+  ],
+  "356284": [
+    {
+      "userStory": "As a user, I want to mark a to-do as \\"
+    },
+    {
+      "userStory": "As a user, I want to set reminders for my to-dos so that I can receive notifications before a task is due."
+    }
+  ],
+  "356302": [
+    {
+      "userStory": "As a user, I want to share my ToDos items with others, so that I can collaborate on tasks and keep everyone involved updated."
+    },
+    {
+      "userStory": "As a user, I want to add my ToDos items to my phone's calendar based on their due dates, so that I can get reminders and manage my time more effectively."
+    }
+  ],
+  "356352": [
+    {
+      "userStory": "As a user, I want to mark a ToDo as complete, so that I can keep track of which tasks are done."
+    },
+    {
+      "userStory": "As a user, I want to access my ToDos even without an internet connection, so that I can use the app offline."
+    }
+  ],
+  "356356": [
+    {
+      "userStory": "As a user, I want to receive notifications for upcoming to-dos, so that I can be reminded of tasks I need to complete."
+    },
+    {
+      "userStory": "As a user, I want to share my to-dos with other users, so that we can collaborate on tasks together."
+    }
+  ],
+  "356365": [
+    {
+      "userStory": "As a user, I want to receive notifications for upcoming to-dos, so that I am reminded of tasks that are due soon."
+    },
+    {
+      "userStory": "As a user, I want to be able to filter my to-dos by categories such as \\"
+    }
+  ],
+  "356449": [
+    {
+      "userStory": "As a user, I want to be able to have shared to-do lists, so that I can plan group tasks with other users."
+    },
+    {
+      "userStory": "As a user, I want to be able to set up a due date for my tasks, so that I know which task to prioritize."
+    }
+  ],
+  "356522": [
+    {
+      "userStory": "As a user, I want to be able to delete ToDos I have not completed but are no longer relevant to me, so that I can keep my list clean and organized."
+    },
+    {
+      "userStory": "As a user, I want to be able to share my ToDos with others, so that I can collaborate with them on tasks."
+    }
+  ],
+  "356523": [
+    {
+      "userStory": "As a blind person, I want to be able to input notes vocally and hear the inputed notes so that the app is accessible to me."
+    },
+    {
+      "userStory": "As a customer, I want to be able to have automatic monthly billing for the app so that the payment process is as easy as possible."
+    }
+  ],
+  "356574": [
+    {
+      "userStory": "As an old user (67 years old), I want to be able to increase the letter size so that I can read it despite my poor eyesight."
+    },
+    {
+      "userStory": "As a busy office worker, I want to be able to receive notifications of the to Do items so that I don't have to check my phone all the time."
+    }
+  ],
+  "356653": [
+    {
+      "userStory": "As a user, I want to be able to organize my to-dos in categories, so that I can better manage tasks based on their type."
+    },
+    {
+      "userStory": "As a user, I want to add due dates to my to-dos, so that I can keep track of every deadline and manage my time more efficiently."
+    }
+  ],
+  "356671": [
+    {
+      "userStory": "As a user, I want to be able to put priority levels on my to-dos, so that I can focus on the most important tasks first."
+    },
+    {
+      "userStory": "As a user, I want to set reminders on my to-dos, so that I can receive notifications before a task is due."
+    }
+  ],
+  "356771": [
+    {
+      "userStory": "As a user, I want to organize my to-dos into custom categories, so that I can group related tasks and navigate more easily through my list."
+    },
+    {
+      "userStory": "User Story: As a user, I want to set deadlines for my to-dos and view them on a calendar, so that I can easily track due dates and plan my schedule accordingly."
+    }
+  ],
+  "356844": [
+    {
+      "userStory": "As a user, I want to share my to-dos with my friends, so that we can make tasks in common."
+    },
+    {
+      "userStory": "As a user, I want to assign importance to my to-dos, so that I can prioritize what I do."
+    }
+  ],
+  "357154": [
+    {
+      "userStory": "As a user, I want to receive notifications, so that I can get reminded of my ToDos before a deadline"
+    },
+    {
+      "userStory": "As a team member, I want to share a ToDos list, so that we can better plan our work as a team"
+    }
+  ],
+  "357236": [
+    {
+      "userStory": "As a business professional I want to be able to create multiple different lists of ToDos, so that I can separately keep track of my work and personal tasks."
+    },
+    {
+      "userStory": "As a user I want to be able to receive notifications based on the severity and importance I assigned to my ToDos, so that I do not forget any major task."
+    }
+  ],
+  "357241": [
+    {
+      "userStory": "As a user, I want to assign priority levels to my to-dos, so that I can easily focus on the most important tasks."
+    },
+    {
+      "userStory": "As a user, I want to set reminders for my to-dos, so that I receive notifications when tasks are due and stay on top of my deadlines."
+    }
+  ],
+  "357248": [
+    {
+      "userStory": "As an online shop customer, I want to be able to see reviews of products so that I can be sure of the quality of the product before I buy it."
+    },
+    {
+      "userStory": "As a streaming service user, I want to generate a monthly report of the movie genres I watched so that I can see what I watched the most."
+    }
+  ],
+  "357403": [
+    {
+      "userStory": "User Story: As a user, I want to list my ToDos in order of importance, so that I can prioritize and start with the most important tasks first."
+    },
+    {
+      "userStory": "User Story: As a user, I want a satisfying visual or sound effect to play every time I finish a task, So that I can feel a sense of accomplishment and stay motivated to complete more tasks."
+    }
+  ],
+  "357772": [
+    {
+      "userStory": "As a user, I want edit or delete existing To-Do so that I can update or remove tasks that are no longer relevant."
+    },
+    {
+      "userStory": "As a user, I want to mark a To-do as complete, so that I can track which tasks I have already finished."
+    }
+  ],
+  "357825": [
+    {
+      "userStory": "As an on-the-go freelancer, I want the app to use my current location so that I can add location-based tasks and reminders relevant to where I am."
+    },
+    {
+      "userStory": "As a frequent traveler, I want the app to notify me when I am near a location tied to a task so that I can complete tasks without having to constantly check the app."
+    }
+  ],
+  "357838": [
+    {
+      "userStory": "As a user, I want to add a deadline to a task, so that I’m aware of its priority."
+    },
+    {
+      "userStory": "As a user, I want to be able to set reminders for a specific task, so that I can complete it before its deadline."
+    }
+  ],
+  "358017": [
+    {
+      "userStory": "As a user, I want to be able to set due dates to my ToDos, so that I can keep track of when tasks need to be completed."
+    },
+    {
+      "userStory": "As a user, I want to assign priority levels to my ToDos, so that I can focus on the most important tasks first."
+    }
+  ],
+  "358100": [
+    {
+      "userStory": "As a user, I want to see my ToDos due date in my phone's calendar so that I can easily see my work for the week."
+    },
+    {
+      "userStory": "As a user, I want to get notifications when I'm getting close to the due date of my ToDos, so that I don't forget to do them."
+    }
+  ],
+  "358113": [
+    {
+      "userStory": "As a user, I would like to receive reminders for my tasks such that I can ensure I complete them on time."
+    },
+    {
+      "userStory": "As a user, I would like to create tasks which are linked to a specific location such that I can get reminders while passing through those places."
+    }
+  ],
+  "358115": [
+    {
+      "userStory": "As a user, I want to filter my to-dos by categories, so that I can easily view and prioritize my tasks based on closest due date, nearest location, or current status."
+    },
+    {
+      "userStory": "As a user, I want to receive push notifications on my device when a to-do is due within the next 24 hours, so that I can be reminded to complete it on time."
+    }
+  ],
+  "358118": [
+    {
+      "userStory": "As a user, I want a focus mode that shows only tasks relevant to my current location, so I can avoid distractions from unrelated tasks."
+    },
+    {
+      "userStory": "As student, I want to be able to categorize tasks by subject, so I can easily find tasks related to a specific course."
+    }
+  ],
+  "358213": [
+    {
+      "userStory": "As a user, I want to log in to the app using my credentials so that I can securely access my personal to-do list and manage my tasks."
+    },
+    {
+      "userStory": "As an active person, I want to add new tasks with specific locations on a map so that I can visualize where each task needs to be completed and plan my route accordingly."
+    }
+  ],
+  "358245": [
+    {
+      "userStory": "As a user, I want to be able to share to-dos with some chosen other users so that we can work together on a shared task."
+    },
+    {
+      "userStory": "As a user, I want to start a timer on a to-do when I am working on it and stop it when I have finished so that I can track the time I spent on this task."
+    }
+  ],
+  "358440": [
+    {
+      "userStory": "As a team leader user, I want to assign my ToDos to team members so that the tasks are distributed efficiently."
+    },
+    {
+      "userStory": "As a user, I want to assign my ToDos deadlines and reminders so that I can complete each task on time."
+    }
+  ],
+  "358469": [
+    {
+      "userStory": "As a student, I would like to have push notifications to remind me when my deadlines are getting close."
+    },
+    {
+      "userStory": "As a CEO, I want my ToDo's to be separable by topic so that I am not overwhelmed by the amount of task."
+    }
+  ],
+  "358484": [
+    {
+      "userStory": "As an organized user, I want to prioritize my ToDos, so that I can focus on the most important tasks first."
+    },
+    {
+      "userStory": "As a collaborative user, I want to collaborate on ToDos with others, so that we can share tasks and work together more effectively."
+    }
+  ],
+  "358495": [
+    {
+      "userStory": "As a user, I want to view my to-dos on a calendar, so that I can better visualize the due dates and not fall behind schedule."
+    },
+    {
+      "userStory": "As a user, I want the to-do app to send notifications for upcoming to-do, so that I don't forget any imminent due dates."
+    }
+  ],
+  "359286": [
+    {
+      "userStory": "As a user, I want to share and update To-dos to my friends so that tasks can be done by many people at the same time"
+    },
+    {
+      "userStory": "As a user, I want to configure and receive reminder to specific tasks in the To-dos so that I do not forget to do a task planned for a specific date/time"
+    }
+  ],
+  "359358": [
+    {
+      "userStory": "As a user, I want to be notified when a To-Do deadline approaches, so that I am reminded to complete it."
+    },
+    {
+      "userStory": "As a user, I want to categorize my To-Dos into different projects, so that I can organize my tasks better."
+    }
+  ],
+  "359392": [
+    {
+      "userStory": "As a user, I want to want to be be able to log out of the app as to change account."
+    },
+    {
+      "userStory": "As a user, I want to be able to switch accounts to share the application with other users without having to log out or use another device."
+    }
+  ],
+  "359393": [
+    {
+      "userStory": "As a user, I want to be able to see my ToDos on a calender, so that I can manage my time better based on the ToDos due dates."
+    },
+    {
+      "userStory": "As a user, I want to be able to highlight the most important ToDos, so that I can choose which ToDos to accomplish first."
+    }
+  ],
+  "359826": [
+    {
+      "userStory": "As a user, I want to collaborate and share my to-dos with others so that we can view and edit them together."
+    },
+    {
+      "userStory": "As a user, I want to receive a notification when a task deadline is approaching, has passed, or for reminders, so that I avoid missing important tasks."
+    }
+  ],
+  "360551": [
+    {
+      "userStory": "As a user with many tasks, I want to sort and filter my ToDos based on priority, due date, or location so that I can manage my tasks more efficiently."
+    },
+    {
+      "userStory": "As a user who frequently travels, I want to set location-based reminders so that I am reminded to complete tasks when I arrive at specific locations."
+    }
+  ],
+  "360667": [
+    {
+      "userStory": "As a user, I want to set a task to repeat at regular intervals of my choosing, so that it continues until a specified end date."
+    },
+    {
+      "userStory": "As an organized user, I want to categorize my ToDos by adding tags, so that I can toggle between viewing all ToDos or only those with a specific tag."
+    }
+  ],
+  "360700": [
+    {
+      "userStory": "As a user, I want to be able to chain ToDos (have a new to-do I wrote before appear once another one is finished) so that I can organize my day in a successive manner and not feel overwhelmed"
+    },
+    {
+      "userStory": "As an admin, I want to be able to add ToDos to multiple employees at the same time so that I can be more efficient and coordinate employees"
+    }
+  ],
+  "360864": [
+    {
+      "userStory": "As a user, I want to be able to filter my task, so that I can separate the different types of tasks."
+    },
+    {
+      "userStory": "As a user, I want to receive notification from the app, so that I can be reminded of my tasks yet to fulfill."
+    }
+  ],
+  "361013": [
+    {
+      "userStory": "As a user, I want to set deadlines for my to-dos, so that I can keep track of when tasks are due and manage my time effectively."
+    },
+    {
+      "userStory": "As a user, I want to mark to-dos as completed, so that I can track my progress and keep my list organized."
+    }
+  ],
+  "361075": [
+    {
+      "userStory": "As a user, I want to be alerted when I am near the location of a task, so I can be reminded to complete it based on my current surroundings."
+    },
+    {
+      "userStory": "As a user, I want to share my to-do items with others, so that we can work together on tasks."
+    }
+  ],
+  "361089": [
+    {
+      "userStory": "As a user, I want to schedule my to-dos so that I can plan my day."
+    },
+    {
+      "userStory": "As a user, I want to have a reminder so that I can remember my to-dos."
+    }
+  ],
+  "361104": [
+    {
+      "userStory": "As a user, I want to set priority levels for my to-dos so that I can focus on completing the most important tasks first."
+    },
+    {
+      "userStory": "As a user, I want to set reminders for my to-dos so that I get notifications when a task is approaching its due date."
+    }
+  ],
+  "361249": [
+    {
+      "userStory": "As a user, I want to receive notifications for upcoming tasks, so that I can stay on top of my to-dos."
+    },
+    {
+      "userStory": "As a user, I want to filter my to-dos by status, so that I can easily see what I need to work on."
+    }
+  ],
+  "361312": [
+    {
+      "userStory": "As a user, I want to be able to put a time to a To Do, so that it can remind me of a meeting or event i may miss."
+    },
+    {
+      "userStory": "As an organized user, I want to be able to classify/label my Todos, so that i can prioritize some tasks over others."
+    }
+  ],
+  "361361": [
+    {
+      "userStory": "As a user, I want to be able to mark my ToDos as complete when I finish them, so I can track which tasks have been finished."
+    },
+    {
+      "userStory": "As a user, I want to be able to categorize my ToDos by priority level (e.g. low, medium and high priority), so I can manage my tasks based on their importance."
+    }
+  ],
+  "361384": [
+    {
+      "userStory": "As a user, I want to visualize my to-do lists in augmented reality around my workspace, so that I can see my tasks in my environment without looking at my phone."
+    },
+    {
+      "userStory": "As a user, I want AI to automatically break down complex tasks into smaller, actionable steps, so that I can tackle big projects more easily."
+    }
+  ],
+  "361396": [
+    {
+      "userStory": "As a user, I want to create ToDos using voice commands, so that I can add tasks quickly while I’m on the go or when my hands are occupied."
+    },
+    {
+      "userStory": "As a user, I want to collaborate on a ToDos list with others in real-time, so that I can share and manage tasks with my team, family, or friends."
+    }
+  ],
+  "361423": [
+    {
+      "userStory": "As a user, I want to be able to set reminders on my ToDos, so that I receive notifications to complete my tasks on time."
+    },
+    {
+      "userStory": "As a user, I want to sync my Todos with a calendar, so that I can see them alongside my scheduled events and deadlines."
+    }
+  ],
+  "361496": [
+    {
+      "userStory": "As a user, I want to see a timeline of my past and future ToDos so that I can visualize my productivity."
+    },
+    {
+      "userStory": "As a user, I want to receive notifications for upcoming due dates so that I can complete tasks on time."
+    }
+  ],
+  "361516": [
+    {
+      "userStory": "As a user, I want to create multiple ToDos lists, so that I can classify my tasks. Acceptance Criteria: - The user can create a list and navigate between different list of ToDos."
+    },
+    {
+      "userStory": "As a user, I want to be able to search ToDos, so that I can find particular tasks I wrote in the past. Acceptance Criteria: - The user can search from any view a particular task and access the information of this task."
+    }
+  ],
+  "361517": [
+    {
+      "userStory": "As a user, I want to be able to merge two lists of ToDos, so that I can consolidate tasks from different sources into a single list."
+    },
+    {
+      "userStory": "As a user, I want to share my To-Do list with another user, so that we can collaborate on tasks."
+    }
+  ],
+  "361582": [
+    {
+      "userStory": "As a new user, I want to receive a welcome tutorial upon first login so that I can quickly understand how to navigate the platform and use its key features."
+    },
+    {
+      "userStory": "As an online shopper, I want to save my favorite products to a wishlist so that I can easily access them later and make a purchase decision when I'm ready."
+    }
+  ],
+  "361595": [
+    {
+      "userStory": "As a user, I want to easily search a specific ToDo, so that I can quickly find the information I need."
+    },
+    {
+      "userStory": "As a user, I want to set due dates for tasks, so that I can be reminded of upcoming deadlines."
+    }
+  ],
+  "361629": [
+    {
+      "userStory": "As a user, I want to set reminders for my to-dos, so that I can receive notifications before they are due."
+    },
+    {
+      "userStory": "As a user, I want to prioritize my to-dos, so that I can focus on the most important tasks."
+    }
+  ],
+  "361806": [
+    {
+      "userStory": "As a user, I want to have the option to export a task to my the phone's calendar app, so that I can have a time-efficient schedule."
+    },
+    {
+      "userStory": "As a user, I want to be able to set recurrent tasks which reappear daily, weekly or monthly to my list of ToDos, so that I don't have to re-enter the same tasks every time."
+    }
+  ],
+  "361831": [
+    {
+      "userStory": "As a user, I want to receive notifications about upcoming ToDos, so that I can ensure that I complete them on time."
+    },
+    {
+      "userStory": "As a user, I want to set priority levels for my ToDos, so that I can easily identify which ToDos are more important."
+    }
+  ],
+  "361984": [
+    {
+      "userStory": "As a Microsoft Outlook user, I want to have a tab with all my current subscriptions so that I can more easily unsubscribe from the newsletters that are polluting my inbox."
+    },
+    {
+      "userStory": "As a Youtube user, I want to be able to disable Youtube shorts for my account, so that I don't loose time scrolling on cats shorts."
+    }
+  ],
+  "361990": [
+    {
+      "userStory": "As a user, I want to categorize my ToDos using tags, so that I can filter and organize my tasks efficiently."
+    },
+    {
+      "userStory": "As a user, I want to visualize my ToDos as a progress map, so that I am motivated to complete more of them."
+    }
+  ],
+  "362178": [
+    {
+      "userStory": "As a user who frequently works in groups, I want to create tasks with my group members so that we can collaboratively track what needs to be done."
+    },
+    {
+      "userStory": "As a busy user, I want to assign priority levels to tasks so that I can better organize and focus on my most important work."
+    }
+  ],
+  "362180": [
+    {
+      "userStory": "As a user, I want to share my to-dos with other users, so that I can collaborate on tasks with my team or friends."
+    },
+    {
+      "userStory": "As a user, I want to create a new to-do using voice commands, so that I can quickly add tasks hands-free while on the go."
+    }
+  ],
+  "362239": [
+    {
+      "userStory": "As a busy person, I want to color-code my tasks so I can categorize tasks on my to-do list"
+    },
+    {
+      "userStory": "As a professional, I want to create multiple to-do lists so I can separate my work and personal life"
+    }
+  ],
+  "362246": [
+    {
+      "userStory": "As a user, I want to create a to-do folder so that I can group certain related to-dos together."
+    },
+    {
+      "userStory": "As a user, I want to add programmed notifications to my to-dos so that I can remember to do something at a specific time."
+    }
+  ],
+  "362262": [
+    {
+      "userStory": "As a user, I want to be able to duplicate a recurring task with custom intervals, so that I can efficiently manage my repetitive tasks."
+    },
+    {
+      "userStory": "As a user, I want to assign different colors to categories of tasks, so that I can quickly identify and organize them visually."
+    }
+  ],
+  "362280": [
+    {
+      "userStory": "As a user, I want to assign different levels of priority to my ToDos, so that I can know what ToDo I should do first."
+    },
+    {
+      "userStory": "As a user, I want to assign an expiration date to my ToDos, so that I don't waste time on a ToDo that is no longer relevant."
+    }
+  ],
+  "362341": [
+    {
+      "userStory": "As a user, I want to filter my ToDos by date and priority so that I can focus on the most urgent tasks."
+    },
+    {
+      "userStory": "As a user, I want to receive notifications for ToDos with upcoming deadlines so that I don't forget to complete them."
+    }
+  ],
+  "362441": [
+    {
+      "userStory": "As a user, I want to know how much time each pending task will consume."
+    },
+    {
+      "userStory": "As a user, I want to filter my pending tasks based on their urgency."
+    }
+  ],
+  "362572": [
+    {
+      "userStory": "As a user, I want to sort my tasks by due date or priority so that I can focus on what is most urgent or important."
+    },
+    {
+      "userStory": "As a user, I want to create recurring tasks so that I can automatically generate new tasks for repetitive activities."
+    }
+  ],
+  "362885": [
+    {
+      "userStory": "As a user, I want to be able to add to-dos from my home page so that I can easily and quickly add tasks to my to-do list."
+    },
+    {
+      "userStory": "As a user, I want to be able to tag my to-dos so that I can easily categorize and filter my to-do list."
+    }
+  ],
+  "363054": [
+    {
+      "userStory": "As a user, I want to receive a reminder notification so that I don't forget my tasks."
+    },
+    {
+      "userStory": "As a user, I want to be able to add colorful tags to my tasks so that I can more easily plan my priorities."
+    }
+  ],
+  "363088": [
+    {
+      "userStory": "As a user, I want to be able to assign priority levels to certain tasks and colour code them, to be able to identify more important tasks."
+    },
+    {
+      "userStory": "As a user, I want to add prerequisites to tasks (task A must be completed before task B) and not be able to start task B while A is not yet completed."
+    }
+  ],
+  "363397": [
+    {
+      "userStory": "As a user, I want to be able to assign a priority to each task in order to better organize my important and less urgent tasks."
+    },
+    {
+      "userStory": "As a user, I want to receive notifications when a task's deadline is approaching, so that I don't forget my important tasks."
+    }
+  ],
+  "363513": [
+    {
+      "userStory": "As a user, I want to earn points and unlock achievements for completing tasks, so that I stay motivated and engaged with my to-do list."
+    },
+    {
+      "userStory": "As a user, I want the app to suggest to-dos based on my previous tasks and patterns, so that I can be more efficient in planning my future tasks."
+    }
+  ],
+  "363521": [
+    {
+      "userStory": "As a user, I want to set tasks to recur at regular intervals (e.g., daily, weekly, monthly), so that I can manage ongoing responsibilities easily."
+    },
+    {
+      "userStory": "As a user, I want to search for and filter tasks by keywords, due dates, or categories, so that I can quickly find specific tasks."
+    }
+  ],
+  "363568": [
+    {
+      "userStory": "As a user, I want to be able to add an icon to the task so that I can easily recognize the task."
+    },
+    {
+      "userStory": "As a user, I want to be able to see my task in a scheduled form so that I can easily understand when the task should be done."
+    }
+  ],
+  "363620": [
+    {
+      "userStory": "As a user, I want to separate my task in sub-parts with progress tracking so that my ToDos can better represent the tasks that I am doing and i can see how much progress I did for that task."
+    },
+    {
+      "userStory": "As a user, I want to be able to set reminders in the calendar so that I am reminded to do my ToDos."
+    }
+  ],
+  "363863": [
+    {
+      "userStory": "As a user, I want my to-dos to be grouped in separate priority tabs, so that I can deal with the most urgent and highest priority items first."
+    },
+    {
+      "userStory": "As a user, I want to receive a reminder once a day if I have unfulfilled to-do that are due within 2 days, so that I don't forget about any crucial tasks."
+    }
+  ],
+  "363873": [
+    {
+      "userStory": "As a user, I want to have notifications that reminds me which tasks I need to get done."
+    },
+    {
+      "userStory": "As a user, I want to be able to create multiples toDoLists to separate the tasks per activity."
+    }
+  ],
+  "364142": [
+    {
+      "userStory": "As a user, I want to set reminders for my ToDos, so that I receive notifications when tasks are due."
+    },
+    {
+      "userStory": "As a user, I want to collaborate on ToDos with other users, so that I can assign tasks to teammates and track their progress."
+    }
+  ],
+  "394326": [
+    {
+      "userStory": "As a very busy user, I want to be able to prioritise to-dos, so that I can focus on the most important tasks first and not be distracted by less important tasks."
+    },
+    {
+      "userStory": "As a forgetful user, I want to be able to set deadlines for to-dos which remind me before before they run out, so that I can avoid forgetting tasks or finishing them too late."
+    }
+  ],
+  "394854": [
+    {
+      "userStory": "As a user, I want to be able to set due dates for my tasks so that I can organize my work based on priority and deadlines."
+    },
+    {
+      "userStory": "As a user, I want to receive notifications or reminders for tasks that are nearing their due dates so that I do not forget to complete them on time."
+    }
+  ]
+}
