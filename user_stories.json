@@ -36,7 +36,7 @@
       "userStory": "As a user, I want to be able to create a new task with a title and optional description so that I can keep track of things I need to accomplish. -> Acceptance Criteria:  - A user can enter a task title (required) and an optional description. - The task is added to the list of active tasks once created. - The user receives confirmation that the task has been successfully added."
     },
     {
-      "userStory": "As a user, I want to be able to mark tasks as completed so that I can visually track my progress and know which tasks are done.  -> Acceptance Criteria:   - A user can click a checkbox or button next to a task to mark it as completed. - Completed tasks should be visually differentiated from incomplete tasks (e.g., strike-through, moved to a \\"
+      "userStory": "As a user, I want to be able to mark tasks as completed so that I can visually track my progress and know which tasks are done.  -> Acceptance Criteria:   - A user can click a checkbox or button next to a task to mark it as completed. - Completed tasks should be visually differentiated from incomplete tasks (e.g., strike-through, moved to a \"Completed\" section). - The user should be able to undo marking a task as completed."
     }
   ],
   "325520": [
@@ -122,7 +122,7 @@
   ],
   "330258": [
     {
-      "userStory": "As a user, I want to create and manage custom hierarchical categories for my ToDos (e.g., \\"
+      "userStory": "As a user, I want to create and manage custom hierarchical categories for my ToDos (e.g., \"Work\" -> \"Projects\" -> \"Project A\"), so that I can effectively organize and prioritize my tasks based on their context."
     },
     {
       "userStory": "As a user, I want to track my progress in completing ToDos within their specified due dates, so that I can identify areas where I need to improve my time management and productivity."
@@ -418,7 +418,7 @@
   ],
   "345507": [
     {
-      "userStory": "As an indecisive user, I wish I could talk to an AI through the app so that it could help me organise my \\"
+      "userStory": "As an indecisive user, I wish I could talk to an AI through the app so that it could help me organise my \"TODO\" tasks"
     },
     {
       "userStory": "As a manager, I would like to be able to create groups and assign ToDos to my team to improve collaboration"
@@ -506,7 +506,7 @@
   ],
   "346981": [
     {
-      "userStory": "As a user, I want to share my To-Do list with other people, so that I can split tasks to be done in the office with my coworkers. Acceptance criteria: - The To-Do appears as \\"
+      "userStory": "As a user, I want to share my To-Do list with other people, so that I can split tasks to be done in the office with my coworkers. Acceptance criteria: - The To-Do appears as \"collaborative\" on the list. - I can send the link of my To-Do to people via gmail (if they have a google account), or by copying it to my clipboard. - Users that are connected and on my To-Do page appear on the top right as clickable logos with their profile. - I can give people permissions, like \"admin\" (they can edit and view) or \"reader\" (they can only view), and it appears underneath their profile when clicked on."
     },
     {
       "userStory": "As a user, I want to have a calendar with my To-Do's where bullets appear at the time of their due date, so that I know where I stand on my schedule and I can organize my time better. Acceptance criteria: - The bullets appear with their respective To-Do title, and with its To-Do associated color to differentiate same bullets in different lists). - The bullets are duplicable for other days by clicking on a button in their details page (with the choice of them being in the same To-Do or not), to handle weekly or daily chores for example. - Bullets can be postponed (button in the details page), if the user missed the due date. - A notification is sent to the user (they can disable them in settings) if a bullet's due date is in less than one day."
@@ -546,7 +546,7 @@
   ],
   "347407": [
     {
-      "userStory": "As a user, I want to assign priority levels (e.g., \\"
+      "userStory": "As a user, I want to assign priority levels (e.g., \"High,\" \"Medium,\" \"Low\") to my to-dos so that I can automatically reorder tasks by importance and focus on the most critical ones first."
     },
     {
       "userStory": "As a user, I want to assign locations to my to-dos and view them on a map, so that I can efficiently plan my work based on their geographical proximity."
@@ -621,7 +621,7 @@
       "userStory": "As a user, I want to have a notification when I am close to one of my to-dos on the map, so that I can take advantage of being close to my task to do it quickly."
     },
     {
-      "userStory": "As a user, I want to have a \\"
+      "userStory": "As a user, I want to have a \"a progress bar\" that increases when I complete a task, so that I can feel that I am progressing and that the end of my tasks is near."
     }
   ],
   "355677": [
@@ -738,7 +738,7 @@
   ],
   "356284": [
     {
-      "userStory": "As a user, I want to mark a to-do as \\"
+      "userStory": "As a user, I want to mark a to-do as \"done\" so that I can easily keep track of tasks I have completed and focus on pending ones."
     },
     {
       "userStory": "As a user, I want to set reminders for my to-dos so that I can receive notifications before a task is due."
@@ -773,7 +773,7 @@
       "userStory": "As a user, I want to receive notifications for upcoming to-dos, so that I am reminded of tasks that are due soon."
     },
     {
-      "userStory": "As a user, I want to be able to filter my to-dos by categories such as \\"
+      "userStory": "As a user, I want to be able to filter my to-dos by categories such as \"Work,\" \"Personal,\" or \"Urgent,\" so that I can easily manage and prioritize my tasks."
     }
   ],
   "356449": [
