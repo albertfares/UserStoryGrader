@@ -1,0 +1,18 @@
+[
+  {
+    "userStory": "As a student, I want to see how long a study room is available so that I can choose one and study accordingly.",
+    "tags": [
+      "irrelevant"
+    ],
+    "grade": 0,
+    "feedback": "This story is outside the app's scope, as it focuses on study room availability rather than task management features. Please align your user story with the app's core functionalities. (-5)"
+  },
+  {
+    "userStory": "As a user, I want to filter products in a price range, so that I can find one within my budget.",
+    "tags": [
+      "irrelevant"
+    ],
+    "grade": 0,
+    "feedback": "This story is outside the app's scope, as it focuses on filtering products, which is not relevant to a ToDo app. Please revise to align with the app's features. (-5)"
+  }
+]

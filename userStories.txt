@@ -1,0 +1,2 @@
+As a student, I want to see how long a study room is available so that I can choose one and study accordingly.
+As a user, I want to filter products in a price range, so that I can find one within my budget.

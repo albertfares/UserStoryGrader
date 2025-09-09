@@ -6,7 +6,7 @@
         "irrelevant"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story is irrelevant as it falls outside the scope of the ToDo app's features."
+      "feedback": "This story is outside the app's scope, as it focuses on study room availability rather than task management features. (–5)"
     },
     {
       "userStory": "As a user, I want to filter products in a price range, so that I can find one within my budget.",
@@ -14,7 +14,7 @@
         "irrelevant"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story is irrelevant as it pertains to product filtering, which is outside the scope of a ToDo app."
+      "feedback": "This story is outside the app's scope, as it mentions filtering products, which is not relevant to a ToDo app focused on tasks and location features. (-5)"
     }
   ],
   "315594": [
@@ -24,13 +24,13 @@
         "ui-polish"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. This feature is cosmetic and not essential for the core functionality of the ToDo app."
+      "feedback": "This is a nice idea, but it feels more like a cosmetic feature rather than essential functionality for the app. Consider focusing on core task management features instead. (-2)"
     },
     {
       "userStory": "As a user, I want to be able to launch a timer whenever I'm working on a task, so that I can track the total time spent on each task and better manage my time",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and fits well within the scope of the ToDo app, enhancing task management effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing user time management effectively."
     }
   ],
   "315696": [
@@ -38,13 +38,13 @@
       "userStory": "As a user, I want to set reminders for my ToDos so that I receive notifications when a task is due.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great addition! Setting reminders enhances task management and aligns perfectly with the app's purpose of helping users stay organized."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users can effectively manage their tasks."
     },
     {
       "userStory": "As a user, I want to set recurring ToDos (e.g., daily, weekly, monthly) so that I can automatically keep track of repetitive tasks without creating them manually each time.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This feature is clear, relevant, and enhances task management in the app, allowing users to automate repetitive tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing the need for recurring tasks in the ToDo app."
     }
   ],
   "316029": [
@@ -52,13 +52,13 @@
       "userStory": "As a busy student, I want the app to categorize my tasks by urgency and importance so that I can focus on the most urgent tasks first.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by prioritizing urgency and importance, which is essential for a ToDo app."
+      "feedback": "Great job! The story clearly outlines the user's needs, emphasizes relevance, and maintains an appropriate scope for the ToDo app."
     },
     {
       "userStory": "As an unorganized student, I want the app to automatically transfer due dates to my calendar so that I can see them on my lock screen.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This feature is clear and relevant, enhancing task management by integrating with calendars, which is a valuable addition for students."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing a common need for organization."
     }
   ],
   "324390": [
@@ -68,15 +68,13 @@
         "duplicate"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This user story duplicates existing functionality for task creation and lacks clarity on specific actions or outcomes."
+      "feedback": "This user story repeats an existing feature of task creation in the app, which is already covered. Please revise to introduce a new aspect or improvement to avoid duplication (-5)."
     },
     {
-      "userStory": "As a user, I want to be able to mark tasks as completed so that I can visually track my progress and know which tasks are done.  -> Acceptance Criteria:   - A user can click a checkbox or button next to a task to mark it as completed. - Completed tasks should be visually differentiated from incomplete tasks (e.g., strike-through, moved to a \\",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates an existing feature of marking tasks as completed, which is already implied in the task management functionality."
+      "userStory": "As a user, I want to be able to mark tasks as completed so that I can visually track my progress and know which tasks are done.  -> Acceptance Criteria:   - A user can click a checkbox or button next to a task to mark it as completed. - Completed tasks should be visually differentiated from incomplete tasks (e.g., strike-through, moved to a \"Completed\" section). - The user should be able to undo marking a task as completed.",
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for task tracking."
     }
   ],
   "325520": [
@@ -84,7 +82,7 @@
       "userStory": "As a sociable user, I want to access my friends' ToDo list, so that I can join them in some of their activities.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This story is clear and relevant, but accessing friends' ToDo lists is outside the app’s current scope."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing social interaction among users."
     },
     {
       "userStory": "As a user, I want to personalize my ToDos with emotes, so I can easily find them and know what activity they correspond to.",
@@ -92,7 +90,7 @@
         "ui-polish"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. The idea of personalizing ToDos with emotes is cosmetic and not essential for the core functionality of the app."
+      "feedback": "This idea adds a cosmetic feature that isn't essential for the app's core functionality, which focuses on task management. Consider prioritizing features that enhance usability and task organization instead. (-2)"
     }
   ],
   "326477": [
@@ -102,7 +100,7 @@
         "duplicate"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates an existing feature of signing up, which is already covered in the app's functionality."
+      "feedback": "This user story repeats an existing feature of signing up with Google, which is already covered. Please ensure each story presents a unique functionality to avoid redundancy. (-5)"
     },
     {
       "userStory": "As a current user, I want to be able to set up a password after signing up with my Google account without losing my previous account",
@@ -110,7 +108,7 @@
         "duplicate"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing functionality, as users can already manage their accounts through Google without needing to set a password."
+      "feedback": "This story repeats an existing feature about account setup after signing up with Google. Please focus on new functionalities or improvements instead. (Penalty: -5)"
     }
   ],
   "327057": [
@@ -118,15 +116,13 @@
       "userStory": "As a user, I want to be able to order my to-do list by priority so that I can see what tasks are most important.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and fits well within the app's scope, enhancing task management by prioritization."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, highlighting a valuable feature for users."
     },
     {
       "userStory": "As a user, I want to be able to delete my to-dos so that I can remove tasks that are no longer relevant.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This user story duplicates an existing feature, as task deletion is already implied in managing to-dos."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing a key user need effectively."
     }
   ],
   "327530": [
@@ -134,15 +130,15 @@
       "userStory": "As a user, I want to be able to set priority levels for my ToDos, so that I triage which to actually do when short on time.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and fits well within the scope of the ToDo app, enhancing task management effectively."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for prioritizing tasks in the ToDo app."
     },
     {
       "userStory": "As a user, I want to be able to set deadlines for my ToDos, so that I can now which are pressing and which can be delayed",
       "tags": [
-        "duplicate"
+        "typo"
       ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing functionality for task management and does not introduce a new feature for the ToDo app."
+      "grade": 4,
+      "feedback": "There's a small spelling error in \"now\" which should be \"know.\" This typo reduces clarity and affects the overall quality of your user story (-1). Please revise for better understanding."
     }
   ],
   "328216": [
@@ -150,33 +146,35 @@
       "userStory": "As a user, I would like to create multiple task lists such that I can organize my tasks by different projects or categories.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns perfectly with the app's goal of task organization."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for task organization."
     },
     {
       "userStory": "As a user, I want to set reminders for my tasks such that I can ensure I never forget important deadlines.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns perfectly with the core functionality of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing a key user need effectively."
     },
     {
       "userStory": "As a user, I want to see my tasks.",
       "tags": [
-        "duplicate"
+        "duplicate",
+        "vague",
+        "bad-structure"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story is too vague and does not specify how you want to see your tasks, making it unclear and unactionable."
+      "feedback": "This story repeats an existing feature, which is a significant issue (-5). Additionally, it lacks clarity on specific actions or outcomes related to viewing tasks (-2) and doesn't follow the proper user story format (-3)."
     },
     {
       "userStory": "As a user, I want to track my completed tasks so that I can measure my productivity.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, aligning well with the app's goal of task management and productivity tracking."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for productivity tracking."
     },
     {
       "userStory": "As a user, I want to collaborate with my friends on tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great idea! Collaborating on tasks enhances user engagement and aligns well with the app's purpose."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, emphasizing collaboration among friends on tasks."
     }
   ],
   "328225": [
@@ -184,13 +182,13 @@
       "userStory": "As a user, I want to assign priority levels (e.g., high, medium, low) to my tasks so that I can focus on the most important tasks first.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This feature enhances task management by allowing users to prioritize effectively, aligning perfectly with the app's purpose. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for task prioritization."
     },
     {
       "userStory": "As a user, I want to filter my tasks by completed, pending, or overdue status so that I can quickly see what I still need to do.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns perfectly with the core functionality of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, making it easy to understand the user's needs."
     }
   ],
   "328412": [
@@ -198,41 +196,38 @@
       "userStory": "As a busy person, I want to be reminded to do certain tasks, so that I don't forget them.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, emphasizing the importance of reminders in managing tasks effectively within the app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively highlighting the need for task reminders."
     },
     {
       "userStory": "As an organised person, I want to add categories to my tasks, so that I can sort them.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task organization within the app's scope. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively highlighting the need for task categorization."
     }
   ],
   "329732": [
     {
       "userStory": "As a user, I want to tag my tasks and filter them according to the tags, so that I can choose the project on which I work.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines multiple features—tagging and filtering—which makes it oversized; consider separating them for clarity and focus."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and appropriately scoped for the ToDo app, enhancing user experience through effective task organization."
     },
     {
       "userStory": "As a user, I want to set a due date on my tasks, so that I can work on urgent tasks first.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing functionality for task management and does not introduce a new feature for the ToDo app."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing user needs effectively."
     }
   ],
   "329743": [
     {
       "userStory": "As a busy user, I want to login to my account with One tap to save my time.",
       "tags": [
-        "duplicate"
+        "duplicate",
+        "ui-polish"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates the existing login feature and does not provide any new value or clarity for the ToDo app."
+      "feedback": "This story repeats an existing feature, which is why it receives a penalty (-5). Additionally, the focus on \"One tap\" feels more like a cosmetic detail rather than essential functionality (-2)."
     },
     {
       "userStory": "As a travelling businessman, I want to know where I wrote each of my To-Do so that I can remember the context.",
@@ -240,25 +235,21 @@
         "duplicate"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story is vague and does not specify clear actions or outcomes related to task management in the ToDo app."
+      "feedback": "This story repeats an existing feature about task context, which is already covered by the app's functionality. Please revise to introduce a new idea or perspective. (-5)"
     }
   ],
   "330258": [
     {
-      "userStory": "As a user, I want to create and manage custom hierarchical categories for my ToDos (e.g., \\",
-      "tags": [
-        "vague",
-        "typo",
-        "bad-structure"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. The story is vague and incomplete; please clarify specific actions and outcomes related to managing ToDo categories."
+      "userStory": "As a user, I want to create and manage custom hierarchical categories for my ToDos (e.g., \"Work\" -> \"Projects\" -> \"Project A\"), so that I can effectively organize and prioritize my tasks based on their context.",
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing the need for organized task management in the ToDo app."
     },
     {
       "userStory": "As a user, I want to track my progress in completing ToDos within their specified due dates, so that I can identify areas where I need to improve my time management and productivity.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! Your focus on tracking progress aligns well with the app's goal of enhancing time management and productivity."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for time management and productivity in the ToDo app."
     }
   ],
   "332446": [
@@ -266,31 +257,29 @@
       "userStory": "As a user of the ToDoApp, I want to be able to get notifications on my phone when the deadline of the task is close so that I do not forget it.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns perfectly with the ToDo app's functionality."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for timely task reminders in the ToDo app."
     },
     {
       "userStory": "As a user, I want to be able to create, rename, and delete folders to organize my to-do lists into different categories, so that I can manage my tasks more efficiently and stay organized.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines too many features at once; focus on one aspect of task organization for clarity and scope."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing user organization and task management."
     }
   ],
   "339364": [
     {
       "userStory": "As a user I want to change the status of my tasks so that I can track their progress.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing functionality for task status changes and does not introduce new value to the ToDo app."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for task progress tracking."
     },
     {
       "userStory": "As a user I want to receive 2 daily notifications to remind me of the tasks that need to be done.",
-      "tags": [],
-      "grade": 5,
-      "feedback": "Grade 5/5. Great clarity and relevance; daily notifications enhance task management and user engagement in the ToDo app."
+      "tags": [
+        "bad-structure"
+      ],
+      "grade": 2,
+      "feedback": "This user story doesn't follow the proper format for a user story. It lacks clear actions and outcomes related to task management, which makes it difficult to understand the specific needs of the user."
     }
   ],
   "339394": [
@@ -298,32 +287,29 @@
       "userStory": "As a user, I want to receive notifications as reminders when I am close to a deadline so that I can complete my task on time.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the ToDo app's functionality, enhancing user experience with timely reminders."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for deadline reminders."
     },
     {
       "userStory": "As a user, I want to see the percentage of my tasks completed on a colorful progress diagram displayed on my screen, and be rewarded with a sparkling animation of confetti whenever I complete a task, so that I can both track my progress and feel motivated.",
       "tags": [
-        "oversized",
         "ui-polish"
       ],
-      "grade": 1,
-      "feedback": "Grade 1/5. The request for a colorful progress diagram and confetti animation is oversized, combining multiple features that distract from core task management functionalities."
+      "grade": 3,
+      "feedback": "The progress diagram and confetti animation are nice touches, but they are cosmetic features and not essential functionality for the app. This results in a point penalty for ui-polish (-2)."
     }
   ],
   "339511": [
     {
       "userStory": "As a busy professional, I want to create and categorize tasks in my To-Do list so that I can organize my day efficiently and prioritize my work.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. The story combines too many features at once; focus on one specific action, like creating tasks or categorizing them."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for a To-Do app, effectively highlighting the need for task organization and prioritization."
     },
     {
       "userStory": "As a forgetful user, I want to receive daily reminders for overdue tasks so that I can stay on top of my to-do list and not miss any important deadlines.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! The user story is clear, relevant, and aligns perfectly with the app's purpose of helping users manage their tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing a common user need effectively."
     }
   ],
   "339607": [
@@ -331,15 +317,13 @@
       "userStory": "As a user, I want to be able to add certain To-Dos to my public profile, so that I can share my tasks with my friends",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and fits well within the app's scope, enhancing social sharing of tasks."
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing the need for sharing tasks within the ToDo app. Great job!"
     },
     {
       "userStory": "As a user, I want to be able to create group folders and classify my To-Dos, so that I can organise my tasks between different projects",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines too many features at once; focus on one aspect of task organization for clarity and feasibility."
+      "tags": [],
+      "grade": 5,
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing the need for task organization within the ToDo app. Great job!"
     }
   ],
   "339715": [
@@ -349,15 +333,15 @@
         "typo"
       ],
       "grade": 4,
-      "feedback": "Grade 4/5. The typo in \"reminders\" reduces clarity; please revise for better understanding of the task-related actions."
+      "feedback": "There’s a spelling error in \"reminders\" and \"to-dos,\" which reduces clarity (-1). Please revise for better readability. Overall, great job on the user story!"
     },
     {
       "userStory": "As a user, i want to delete my to-dos, so that i can delete task that is completed or no longer needed.",
       "tags": [
-        "duplicate"
+        "typo"
       ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This user story is a duplicate of an existing feature for task deletion, which is already covered in the app's functionality."
+      "grade": 4,
+      "feedback": "There's a small typo in your story: \"i\" should be capitalized to \"I.\" This reduces clarity and professionalism. Please correct it for a better presentation. (-1)"
     }
   ],
   "339718": [
@@ -365,13 +349,13 @@
       "userStory": "As a user, I want to add tags to my to-do's so that I can better search and filter my to-do's.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and well within the scope of the ToDo app, enhancing task organization and searchability."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for enhancing the ToDo app's functionality with tags for better organization."
     },
     {
       "userStory": "As a user, I want to be able to have multi-stage to-do's so I can add more complex and layered tasks to the app.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the app's functionality by allowing for more complex task management."
+      "feedback": "Great job! The story is clear, relevant, and appropriately scoped, enhancing the ToDo app's functionality with multi-stage tasks for better user experience."
     }
   ],
   "339815": [
@@ -379,13 +363,13 @@
       "userStory": "As a user, I want to group my tasks into categories, so that I can organize my tasks purposefully.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task organization within the app's scope. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing user organization and task management."
     },
     {
       "userStory": "As a user, I want to receive a notification when a task is due, so that I can complete it on time.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's functionality, enhancing task management for users."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring timely task completion for users."
     }
   ],
   "339839": [
@@ -393,29 +377,27 @@
       "userStory": "As a user, I want to set reminders for my tasks so that I don’t miss important deadlines and stay organized",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management in the app by helping users stay organized with reminders."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing a key user need effectively."
     },
     {
       "userStory": "As a user, I want to be able to attach files or images to my tasks so that I can reference important documents or visuals directly within the app.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's purpose of enhancing task management. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing user experience by allowing easy access to important documents."
     }
   ],
   "340059": [
     {
       "userStory": "As a user, I want to mark the progress of a to do, so that I can see at a glance whether the task is in progress, finished, or haven't started yet.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing features for task status tracking and does not introduce new functionality for the ToDo app."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for task progress tracking."
     },
     {
       "userStory": "As a user, I want to mark the priority tasks, so that I can check the important tasks easily.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great clarity and relevance; marking priority tasks will enhance task management in the app, making it easier for users to focus on important items."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for prioritizing tasks."
     }
   ],
   "340060": [
@@ -423,15 +405,13 @@
       "userStory": "As a user, I want to be able to set priority for each to-do so that I can decide which one to do first.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and fits well within the scope of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for prioritization."
     },
     {
       "userStory": "As a user, I want to be able to set due date for each to-do so that I can know when to finish it.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates the existing feature of setting due dates for tasks, which is already covered in the app's functionality."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users can effectively manage their tasks."
     }
   ],
   "340946": [
@@ -439,15 +419,13 @@
       "userStory": "As a user, I want to do lists to be collaborative, so that I can share goals with my team and colleagues.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This story is clear and relevant, but it introduces a collaborative feature that is outside the current scope of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, emphasizing collaboration and team goals effectively."
     },
     {
       "userStory": "As a user, I want to be notified when it is time for one of my task, so that I never forget any important meeting or deadline.",
-      "tags": [
-        "typo"
-      ],
-      "grade": 4,
-      "feedback": "Grade 4/5. The story contains a typo (\"task\" should be \"tasks\"), which reduces clarity; please revise for better understanding."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users stay on top of important tasks and deadlines."
     }
   ],
   "341201": [
@@ -455,13 +433,13 @@
       "userStory": "As a user, I want to set recurring to-dos, so that I can automate repetitive tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the app's functionality by addressing a common user need for managing repetitive tasks."
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing the need for automating repetitive tasks in the ToDo app. Great job!"
     },
     {
       "userStory": "As a user, I want to assign a priority level to my to-dos, so that I can focus on the most important tasks first.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by allowing users to prioritize effectively within the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users can prioritize effectively."
     }
   ],
   "341205": [
@@ -469,31 +447,29 @@
       "userStory": "As a user, I want to be able to share my to-dos with others so that I can delegate tasks to others.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's purpose of task management and collaboration."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for task delegation."
     },
     {
       "userStory": "As a user, I want to be able to receive notifications about my to-dos so that I can be reminded to complete them.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! The user story is clear, relevant, and aligns well with the ToDo app's functionality."
+      "feedback": "This user story is clear, relevant, and well-scoped for the ToDo app, effectively addressing the need for reminders. Great job!"
     }
   ],
   "341415": [
     {
       "userStory": "As a student, I want folders for to-dos so that I organize them by course or project.",
-      "tags": [
-        "role-mismatch"
-      ],
-      "grade": 2,
-      "feedback": "Grade 2/5. The role of \"student\" is not appropriate for a ToDo app; please specify a more relevant user role."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing the need for organization by course or project."
     },
     {
       "userStory": "As a student, I want notifications to remind me of the due dates of a to-dos so that I don't forget to submit my work before a deadline.",
       "tags": [
-        "role-mismatch"
+        "typo"
       ],
-      "grade": 2,
-      "feedback": "Grade 2/5. The role of \"student\" is not appropriate for the ToDo app context; please specify a more relevant user role."
+      "grade": 4,
+      "feedback": "There's a minor spelling error in your story that affects clarity. Please double-check your wording to ensure it's clear and free of mistakes. This will help improve your overall score. (-1)"
     }
   ],
   "341467": [
@@ -501,13 +477,15 @@
       "userStory": "As a user, I want to be able to lock some ToDos with my phone's authentication method, so that only I can see them.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This feature enhances security for sensitive tasks, aligning perfectly with the app's purpose of managing ToDos effectively. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user privacy and security needs."
     },
     {
       "userStory": "As a user, I want to be able to share a ToDO with another registered user of the app, so that we can collaborate on it.",
-      "tags": [],
-      "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing collaboration within the ToDo app effectively. Great job!"
+      "tags": [
+        "typo"
+      ],
+      "grade": 4,
+      "feedback": "There is a small spelling error in \"ToDO\" which should be \"To-Do.\" Typos can reduce clarity and understanding of the user story. This results in a point penalty of -1."
     }
   ],
   "341660": [
@@ -515,13 +493,13 @@
       "userStory": "As a user, I want to set reminders for my to-dos so that I am notified when a task is approaching its due date.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and fits well within the scope of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for reminders."
     },
     {
       "userStory": "As a user, I want to organize my to-dos by categories so that I can easily manage and filter my tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management within the app by allowing users to categorize their to-dos effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, making task management more efficient and user-friendly."
     }
   ],
   "341957": [
@@ -529,13 +507,13 @@
       "userStory": "As a user, I want to share my to-dos with my friends so that they can have the same tasks as I do.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's purpose of task management. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing collaboration among users."
     },
     {
       "userStory": "As a user, I want to receive reminder notifications about my to-dos so that I don’t forget them even when I don’t open the app.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's purpose of helping users manage their tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for reminders."
     }
   ],
   "341981": [
@@ -543,13 +521,13 @@
       "userStory": "As a user, I want to organize my ToDos by priority so that I can see the most important ones first.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's purpose of task organization. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for prioritizing tasks in the ToDo app."
     },
     {
       "userStory": "As a user, I want to create different lists of ToDos so that I can distinguish between work and personal tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the app's functionality by allowing users to organize tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing a common user need effectively."
     }
   ],
   "341989": [
@@ -557,13 +535,13 @@
       "userStory": "As a user, I want to set priority levels for my tasks, so that I can focus on completing the most important ones first.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns well with the core functionality of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users can prioritize effectively."
     },
     {
       "userStory": "As a user, I want to receive encouraging notifications when I complete tasks, so I feel motivated to keep using the app.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great idea! Encouraging notifications can enhance user engagement and motivation, aligning perfectly with the app's purpose of task management."
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing motivation in the ToDo app. Great job!"
     }
   ],
   "342062": [
@@ -571,13 +549,13 @@
       "userStory": "As a user, I want to be able to share certain TODO tasks so that I can coordinate tasks with multiple people at the same time.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing collaboration within the ToDo app's task management features. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, facilitating effective collaboration on tasks."
     },
     {
       "userStory": "As a user, I want to be able to assign level of importance on my tasks so that I can better prioritize my time.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by allowing users to prioritize effectively. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and appropriately scoped for the ToDo app, effectively addressing user needs for task prioritization."
     }
   ],
   "342289": [
@@ -587,15 +565,15 @@
         "ui-polish"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. The request for an intuitive interface is too vague; please specify which aspects of the UI need improvement to enhance user experience."
+      "feedback": "The request for an intuitive interface is more of a cosmetic feature than essential functionality. It would be helpful to specify what aspects of the interface you find confusing or what improvements you envision (-2)."
     },
     {
       "userStory": "As a old grandpa, I want the application to read out loud my notes so that my viewing impairment doesn't stop me from using the application.",
       "tags": [
-        "role-mismatch"
+        "typo"
       ],
-      "grade": 2,
-      "feedback": "Grade 2/5. The role of \"old grandpa\" is not appropriate for the app; consider a more relevant user persona for a ToDo app."
+      "grade": 4,
+      "feedback": "There's a small spelling error in \"old grandpa\" which should be \"an old grandpa.\" This typo reduces clarity and costs you a point. Please revise for better readability."
     }
   ],
   "342605": [
@@ -603,25 +581,21 @@
       "userStory": "As a user, I want to be able to share my ToDos with other peers so that I can collaborate with them on the same project.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the collaborative features that enhance the ToDo app experience."
+      "feedback": "Great job! The story is clear, relevant, and appropriately scoped, effectively highlighting the collaborative aspect of the ToDo app."
     },
     {
       "userStory": "As a user, I want to be able to have and set deadlines for my ToDos so that I can see the time frame I have to complete them.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing functionality for setting deadlines, which is already covered in the app's features."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for deadline management in the ToDo app."
     }
   ],
   "342757": [
     {
       "userStory": "As a user, I want to mark my tasks as complete, so that I can track the progress of my tasks.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates an existing feature of marking tasks as complete, which is already covered in the app's functionality."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for task tracking."
     },
     {
       "userStory": "As a user, I want to color the tasks so that I can categorize my tasks.",
@@ -629,7 +603,7 @@
         "ui-polish"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. This feature is cosmetic and not essential for the core functionality of the ToDo app."
+      "feedback": "This feature is more of a cosmetic enhancement rather than essential functionality for the app. Consider focusing on core features that improve task management instead. (-2)"
     }
   ],
   "342896": [
@@ -637,29 +611,27 @@
       "userStory": "As a user, I want to receive reminder notifications for my ToDos, so that I can be alerted about upcoming tasks without needing to open the app.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and fits well within the scope of the ToDo app."
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing the need for reminder notifications in the ToDo app. Great job!"
     },
     {
       "userStory": "As a user, I want to share my ToDos with others, so that I can collaborate on tasks or delegate them efficiently.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great clarity and relevance; sharing ToDos enhances collaboration, fitting perfectly within the app's scope for task management."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing collaboration and task delegation effectively."
     }
   ],
   "344200": [
     {
       "userStory": "As a user, I want to filter or search my ToDos, so that I can quickly find specific tasks by name, category, or date.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines multiple features—filtering by name, category, and date—making it oversized; consider breaking it into smaller, focused tasks."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for efficient task management in the ToDo app."
     },
     {
       "userStory": "As a user, I want to share my ToDos with other users, so that we can collaborate on tasks or projects.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the collaborative features that enhance the ToDo app experience."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively highlighting the collaborative aspect of the ToDo app."
     }
   ],
   "344314": [
@@ -667,15 +639,13 @@
       "userStory": "As a user, I want to receive notifications reminding me of my unfinished to-dos for the day, so that I don't forget to complete them on time.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns perfectly with the core functionality of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for reminders."
     },
     {
       "userStory": "As a user, I want to mark a to-do as done and earn fictional points, so that I stay motivated to complete my tasks.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates the existing feature of marking tasks as done and does not introduce new functionality for the ToDo app."
+      "tags": [],
+      "grade": 5,
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively motivating users to complete tasks through a rewarding points system. Great job!"
     }
   ],
   "344316": [
@@ -683,23 +653,24 @@
       "userStory": "As a user, I want to set reminders for my to-dos, so that I get notified about tasks before they are due.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and fits well within the scope of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for reminders."
     },
     {
       "userStory": "As a user, I want to organize my to-dos using categories or tags, so that I can easily group and filter tasks based on their type or priority.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns perfectly with the app's goal of enhancing task organization."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for organization and filtering."
     }
   ],
   "344697": [
     {
       "userStory": "As an admin, I want to view a summary of users who logged in with Google, including their email and location, with the option to filter by region and export the summary as a CSV, so that I can analyze where the app is being used.",
       "tags": [
-        "irrelevant"
+        "irrelevant",
+        "oversized"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story is irrelevant as it falls outside the scope of the ToDo app's core features."
+      "feedback": "This story is outside the app's scope, as it focuses on admin features rather than user functionality (-5). Additionally, it combines multiple features, making it too complex for a single user story (-2)."
     },
     {
       "userStory": "As a user, I want to receive a confirmation notification after logging in with my Google account so that I can ensure the login was successful.",
@@ -707,7 +678,7 @@
         "duplicate"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing login confirmation features and does not add new value to the ToDo app's functionality."
+      "feedback": "This user story repeats an existing feature related to login confirmation, which is already covered in the app's functionality. Therefore, it receives a penalty for being a duplicate (-5)."
     }
   ],
   "345101": [
@@ -715,31 +686,27 @@
       "userStory": "As a user, I want to get notified one day before my to-dos' due dates, so that I don't forget about them.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the ToDo app by helping users manage their tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users stay on top of their tasks."
     },
     {
       "userStory": "As a user, I want my achieved to-dos to be put in a separate list, so that I keep up with what has and still hasn't been done.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by separating achieved to-dos, which is a valuable feature for the app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing user experience by organizing completed tasks effectively."
     }
   ],
   "345159": [
     {
       "userStory": "As a user, I want to mark a task as completed, so that I can visually track which tasks I have finished.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This user story duplicates an existing feature of marking tasks as completed, which is already implied in task management."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for task tracking."
     },
     {
       "userStory": "As a user, I want to set a due date for each task, so that I can prioritize tasks based on deadlines.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates an existing feature of task management, as due dates are already implied in task creation."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing task prioritization effectively."
     }
   ],
   "345164": [
@@ -747,29 +714,27 @@
       "userStory": "As a user, I want to prioritize my to-dos, so that I can work on my most important or urgent ones, making it easier to concentrate on the essentials.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by allowing prioritization, which is essential for effective use of the app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, emphasizing the importance of prioritization for user productivity."
     },
     {
       "userStory": "As a user, I want to receive notifications on short deadlines, so that I can stay on track with my schedule.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the app's functionality by helping users manage their tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users stay organized and on track with their deadlines."
     }
   ],
   "345232": [
     {
       "userStory": "as a team leader , I want to share my tasks to other persons so that we can manage tasks as a team",
-      "tags": [
-        "role-mismatch"
-      ],
-      "grade": 2,
-      "feedback": "Grade 2/5. The role of a team leader is not appropriate for a personal ToDo app focused on individual task management."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, emphasizing teamwork and task management effectively."
     },
     {
       "userStory": "as a absent-minded person, I want reminder notifications for the tasks which the due date is coming soon so that I don't forget to do them",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, effectively addressing the need for reminder notifications in the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing the need for reminder notifications."
     }
   ],
   "345291": [
@@ -777,13 +742,13 @@
       "userStory": "As a user, I want to share my ToDos with my friends, so that we can work on a common project.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's purpose of task management and collaboration."
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing collaboration needs within the ToDo app. Great job!"
     },
     {
       "userStory": "As a user, I want a history of my ToDos, so that I can keep track of my productivity.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the app's functionality by allowing users to track their productivity effectively."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for tracking productivity."
     }
   ],
   "345375": [
@@ -791,7 +756,7 @@
       "userStory": "As a power user, I want to be able to create multiple lists of ToDos so that I can sort and organise my tasks by type.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great clarity and relevance; organizing tasks into multiple lists enhances user experience and aligns perfectly with the app's purpose."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing the need for task organization in the ToDo app."
     },
     {
       "userStory": "As a busy user, I want to be able to set a deadline for my tasks and export them in my usual calendar app so that I can visualise my deadlines.",
@@ -799,7 +764,7 @@
         "oversized"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. This story combines multiple features—setting deadlines and exporting to a calendar—making it oversized; please separate them for clarity."
+      "feedback": "This story combines multiple features—setting deadlines and exporting to a calendar—making it too complex. Consider separating these into individual user stories for clarity and focus. (-2)"
     }
   ],
   "345472": [
@@ -807,48 +772,41 @@
       "userStory": "As a user, I want to organise my ToDos by topics, so that I can easily organise and filter them.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task organization within the app effectively. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing the need for organizing and filtering ToDos by topics."
     },
     {
       "userStory": "As a user, I want to be able to share my ToDos with other users, so that I can collaborate on them.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and fits well within the scope of the ToDo app, promoting collaboration effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for collaboration within the ToDo app, enhancing user experience."
     }
   ],
   "345507": [
     {
-      "userStory": "As an indecisive user, I wish I could talk to an AI through the app so that it could help me organise my \\",
-      "tags": [
-        "vague"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. The request for AI assistance is vague; please clarify specific actions or outcomes related to task management in the app."
+      "userStory": "As an indecisive user, I wish I could talk to an AI through the app so that it could help me organise my \"TODO\" tasks",
+      "tags": [],
+      "grade": 5,
+      "feedback": "This story is clear, relevant, and perfectly scoped for the ToDo app, effectively highlighting the user's need for AI assistance in task organization."
     },
     {
       "userStory": "As a manager, I would like to be able to create groups and assign ToDos to my team to improve collaboration",
-      "tags": [
-        "oversized",
-        "role-mismatch"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. The role of a manager is not appropriate for a mobile ToDo app focused on individual task management."
+      "tags": [],
+      "grade": 5,
+      "feedback": "This story is clear, relevant, and well-scoped, effectively addressing collaboration needs within the ToDo app for team management. Great job!"
     }
   ],
   "345556": [
     {
       "userStory": "As a user, I want to set deadlines for my to-dos, so that I can make sure I complete them in time.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This user story duplicates existing functionality for task management and does not introduce a new feature for the ToDo app."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for deadline management."
     },
     {
       "userStory": "As a user, I want to rate my to-dos on a scale from 1 to 5, so that I can prioritize and choose the order in which to complete them.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task prioritization in the ToDo app effectively. Great job!"
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing prioritization needs for the ToDo app. Great job!"
     }
   ],
   "345769": [
@@ -856,15 +814,13 @@
       "userStory": "As a user, I want to sort the ToDos by their due date, so that I can prioritise tasks that are approaching their deadline and stay organised.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by prioritizing due dates effectively within the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for prioritizing tasks by due date in the ToDo app."
     },
     {
       "userStory": "As a user, I want to mark ToDos as done, so that I can track which tasks are completed, pending, or overdue.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing functionality for marking tasks, which is already covered in the app's features."
+      "tags": [],
+      "grade": 5,
+      "feedback": "This user story is clear, relevant, and appropriately scoped, effectively addressing the need for task tracking in the ToDo app. Great job!"
     }
   ],
   "346017": [
@@ -872,31 +828,27 @@
       "userStory": "As a user, I want to share a ToDo with other users, so that we can collaborate on tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great clarity and relevance; sharing tasks for collaboration enhances the app's functionality and user experience."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for collaboration in a ToDo app, effectively addressing user needs."
     },
     {
       "userStory": "As a user, I want to archive completed ToDos, so that I can keep my list of tasks clean and organized.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns perfectly with the app's goal of task management."
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing the need for organization in the ToDo app. Great job!"
     }
   ],
   "346148": [
     {
       "userStory": "As a user, I want to be reminded for my upcoming deadlines/ToDos so that I can stay on track with my work. Acceptance criteria: 1. The user should be able to set a deadline for each ToDo. 2. The user should be able to set a reminder for each ToDo. 3. The user should receive a notification when the deadline is approaching (customizable : 1 day before/2 hours before/etc.). 4. The user should receive a notification when the reminder time is reached/passed and the task still hasn't been completed. 5. The user should be able to see the list of upcoming deadlines in the app.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. The story combines too many features at once; consider breaking it down into smaller, more focused user stories for clarity."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for deadline management in the ToDo app."
     },
     {
       "userStory": "As a user, I want to be able to add people to each ToDo, so that I can collaborate with others on my work and make the tasks appear in their app. Acceptance criteria: 1. The user should be able to add existing users and external users (inviting them to sign-up to the app) via email to each ToDo. 2. The user should be able to see the list of people added to each ToDo. 3. The people added to a ToDo should be able to see the ToDo in their app. 4. The people added to a ToDo should be able to update its status (mark as ongoing, completed, etc.). 5. The people added to a ToDo should receive notifications for the ToDo's deadlines and reminders.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. The story combines too many features at once, making it oversized; consider breaking it down into smaller, more focused user stories."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing collaboration features for the ToDo app."
     }
   ],
   "346469": [
@@ -904,13 +856,13 @@
       "userStory": "As a user with a busy schedule, I want to categorize my ToDos by priority so that I can better focus on urgent and important tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's purpose of task management. Great job!"
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing the need for prioritization in a busy schedule. Great job!"
     },
     {
       "userStory": "As an absent-minded person, I want to receive a reminder for my Todos when they are due, so that I don't miss any important tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the ToDo app by adding a valuable reminder feature for due tasks."
+      "feedback": "This story is clear and relevant, effectively highlighting the need for reminders in a ToDo app, making it well-suited for its purpose."
     }
   ],
   "346481": [
@@ -918,13 +870,13 @@
       "userStory": "As a user, I want to be able to archive a ToDo, so that I can keep a ToDo for later without this ToDo distracting me from the other ToDo.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by allowing users to archive ToDos without distraction."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for managing ToDos without distractions."
     },
     {
       "userStory": "As a user, I want to be able to reorder the ToDos, so that I can order my ToDos depending on their priority to improve my organization.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and enhances task organization within the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for enhancing organization within the ToDo app."
     }
   ],
   "346511": [
@@ -932,13 +884,13 @@
       "userStory": "As a user, I want to have a calendar view for my tasks, so that I can easily plan and see what I have to do on a specific day.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great idea! A calendar view would enhance task management and planning, fitting perfectly within the app's scope."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for task planning."
     },
     {
       "userStory": "As a user, I want to organize my tasks with labels, so that I can easily find all tasks related to a specific topic.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and fits well within the scope of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing task organization effectively."
     }
   ],
   "346571": [
@@ -946,7 +898,7 @@
       "userStory": "As a user, I want to sort my ToDos by due date, so that I can prioritize the most urgent tasks on my list.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! The user story is clear, relevant, and aligns perfectly with the app's functionality for task management."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for prioritization."
     },
     {
       "userStory": "As a user, I want to modify my ToDos, so that I can fix mistakes I made while creating them.",
@@ -954,57 +906,49 @@
         "duplicate"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story is a duplicate, as modifying ToDos is already covered by the editing feature in the app."
+      "feedback": "This user story repeats an existing feature about modifying tasks, which is already covered in the app's functionality. Please focus on new aspects or improvements to avoid duplication. (-5)"
     }
   ],
   "346586": [
     {
       "userStory": "As a user, I want to mark a task as complete so that I know I've done it.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This user story duplicates an existing feature of marking tasks as complete, which is already supported in the app."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, making it easy to understand the user's needs."
     },
     {
       "userStory": "As a user, I want to set different priority to my tasks so that I can focus on the most important ones.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great clarity and relevance; prioritizing tasks will enhance user focus and improve task management within the app."
+      "feedback": "This user story is clear, relevant, and well-scoped for the ToDo app, effectively addressing the need for task prioritization. Great job!"
     }
   ],
   "346838": [
     {
       "userStory": "As a user, I want to add a tag to some of my To-Dos and filtering, so that I can filter them by their tag.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. The request combines multiple features—adding tags and filtering—making it oversized; please clarify specific actions or outcomes for each feature."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for tagging and filtering."
     },
     {
       "userStory": "As a user, I want to sort my To-Dos, so that the most important for me appears on top.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the task management experience by prioritizing important To-Dos effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring user priorities are effectively addressed."
     }
   ],
   "346981": [
     {
-      "userStory": "As a user, I want to share my To-Do list with other people, so that I can split tasks to be done in the office with my coworkers. Acceptance criteria: - The To-Do appears as \\",
-      "tags": [
-        "vague"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. The request to share a To-Do list is vague; please specify how sharing will work and what actions users can take."
+      "userStory": "As a user, I want to share my To-Do list with other people, so that I can split tasks to be done in the office with my coworkers. Acceptance criteria: - The To-Do appears as \"collaborative\" on the list. - I can send the link of my To-Do to people via gmail (if they have a google account), or by copying it to my clipboard. - Users that are connected and on my To-Do page appear on the top right as clickable logos with their profile. - I can give people permissions, like \"admin\" (they can edit and view) or \"reader\" (they can only view), and it appears underneath their profile when clicked on.",
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for collaboration in the To-Do app."
     },
     {
       "userStory": "As a user, I want to have a calendar with my To-Do's where bullets appear at the time of their due date, so that I know where I stand on my schedule and I can organize my time better. Acceptance criteria: - The bullets appear with their respective To-Do title, and with its To-Do associated color to differentiate same bullets in different lists). - The bullets are duplicable for other days by clicking on a button in their details page (with the choice of them being in the same To-Do or not), to handle weekly or daily chores for example. - Bullets can be postponed (button in the details page), if the user missed the due date. - A notification is sent to the user (they can disable them in settings) if a bullet's due date is in less than one day.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. The story combines too many features at once, making it oversized; consider breaking it down into smaller, more focused user stories."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for better time management in the To-Do app."
     }
   ],
   "347041": [
@@ -1012,13 +956,13 @@
       "userStory": "As a user, I want to receive reminders for my to-dos so that I can meet deadlines effectively.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's purpose of helping users manage their tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users can effectively manage their deadlines."
     },
     {
       "userStory": "As a user, I want to set recurring to-dos so that tasks that repeat daily, weekly, or monthly are automatically created.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's functionality, enhancing task management for users."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing a common user need effectively."
     }
   ],
   "347105": [
@@ -1026,13 +970,13 @@
       "userStory": "As a team member user, I want to share specific to-dos with other users so that we can collaborate on tasks and complete them together.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the collaborative features of the ToDo app. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, emphasizing collaboration and task completion."
     },
     {
       "userStory": "As a routine-driven user, I want to set recurring to-dos for tasks that happen regularly so that I don’t have to manually create the same task over and over again.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and fits well within the app's scope, enhancing task management for routine-driven users."
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing the need for recurring tasks in the ToDo app. Great job!"
     }
   ],
   "347124": [
@@ -1040,13 +984,13 @@
       "userStory": "As a user, I want to set reminders for my ToDos, so that I can be notified about tasks before their due dates.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great addition! Setting reminders enhances task management and aligns perfectly with the app's purpose of helping users stay organized."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for enhancing the ToDo app with useful reminder functionality."
     },
     {
       "userStory": "As a user, I want to create recurring ToDos, so that I don't have to manually create new ToDos for repetitive tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the ToDo app's functionality for managing repetitive tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for enhancing the ToDo app with recurring tasks functionality."
     }
   ],
   "347219": [
@@ -1054,7 +998,7 @@
       "userStory": "As a user, I want to set reminders to my todos, so that I don't forget important tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the ToDo app's functionality by adding an important feature for task management."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing a key user need effectively."
     },
     {
       "userStory": "As a user, I want to search for todos by keyword, so that I can quickly find a specific tasks.",
@@ -1062,19 +1006,15 @@
         "typo"
       ],
       "grade": 4,
-      "feedback": "Grade 4/5. The story contains a typo (\"specific tasks\" should be \"specific task\"), which reduces clarity."
+      "feedback": "There's a small spelling error in \"todos\" which should be \"to-dos.\" This typo reduces clarity and impacts the overall quality of your user story (-1). Please correct it for better understanding."
     }
   ],
   "347407": [
     {
-      "userStory": "As a user, I want to assign priority levels (e.g., \\",
-      "tags": [
-        "vague",
-        "typo",
-        "bad-structure"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. The story is vague and lacks clear actions or outcomes related to task management in the app."
+      "userStory": "As a user, I want to assign priority levels (e.g., \"High,\" \"Medium,\" \"Low\") to my to-dos so that I can automatically reorder tasks by importance and focus on the most critical ones first.",
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for prioritizing tasks in the ToDo app."
     },
     {
       "userStory": "As a user, I want to assign locations to my to-dos and view them on a map, so that I can efficiently plan my work based on their geographical proximity.",
@@ -1082,7 +1022,7 @@
         "duplicate"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing features of task creation and mapping, failing to introduce new functionality for the ToDo app."
+      "feedback": "This story repeats an existing feature of the app, which is why it received a penalty. Please ensure your user stories introduce new ideas or improvements. (Penalty: -5)"
     }
   ],
   "347446": [
@@ -1090,37 +1030,37 @@
       "userStory": "As a user, I want to assign a priority to my to-dos so that I can quickly identify the most important tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by allowing users to prioritize their to-dos effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users can prioritize their tasks effectively."
     },
     {
       "userStory": "As a user, I want to receive a notification when a pending task is about to be overdue so that I do not miss or forget a task.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and fits perfectly within the scope of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users stay on top of their tasks."
     }
   ],
   "347477": [
     {
       "userStory": "As a team member, I want to share tasks with my colleagues so that we can collaborate on projects more effectively.",
-      "tags": [
-        "role-mismatch"
-      ],
-      "grade": 2,
-      "feedback": "Grade 2/5. The role of \"team member\" is not appropriate for a personal ToDo app focused on individual task management."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, emphasizing collaboration and teamwork effectively."
     },
     {
       "userStory": "As a user, I want to receive reminders for upcoming tasks so that I don't miss important deadlines.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's purpose of managing tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for task reminders."
     }
   ],
   "347492": [
     {
       "userStory": "As a user, I want to be able to filter tasks by time consumption, so that I can chose a task compatible with my available time.",
-      "tags": [],
-      "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by allowing users to select tasks based on their available time."
+      "tags": [
+        "typo"
+      ],
+      "grade": 4,
+      "feedback": "There is a minor spelling error in \"chose,\" which should be \"choose.\" This reduces clarity in your user story. Please correct it for a clearer understanding of your request. (-1)"
     },
     {
       "userStory": "As a user, I want to assign a priority level to tasks, so that I can focus on tasks with highest prority.",
@@ -1128,41 +1068,37 @@
         "typo"
       ],
       "grade": 4,
-      "feedback": "Grade 4/5. The typo in \"prority\" reduces clarity; please correct it for better understanding of the feature."
+      "feedback": "There's a spelling error in \"prority,\" which should be \"priority.\" This reduces clarity in your user story. Please correct it for a clearer understanding of your intent. (-1)"
     }
   ],
   "347508": [
     {
       "userStory": "As a user I would like to be able to have a way to assign a priority to some tasks so that I can better know throughout the day which task should be given higher priority",
-      "tags": [],
-      "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by allowing users to prioritize effectively within the ToDo app."
+      "tags": [
+        "bad-structure"
+      ],
+      "grade": 2,
+      "feedback": "This user story doesn't follow the proper format. It should clearly state the user role, the action they want to take, and the benefit they expect. This structure is important for clarity. (-3)"
     },
     {
       "userStory": "As a user I would like to be able to set due date for my todo and have a notification system which would remind me when a task is about to be overdue, so that I can avoid forgetting to complete tasks.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing features of task management and notifications, which are already covered in the app's functionality."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for task management and reminders."
     }
   ],
   "347516": [
     {
       "userStory": "As a user, I want to set a priority level for each to-do, so that I can organize my tasks based on their importance. Acceptance Criteria: 1. The user can select from priority levels (High, Medium, Low) when creating a to-do. 2. The priority is displayed next to the to-do in the list. 3. The to-do list can be filtered or sorted by priority.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This user story combines too many features at once; consider separating the filtering and sorting functionalities for clarity."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively enhancing the ToDo app's functionality for prioritizing tasks."
     },
     {
       "userStory": "As a user, I want to receive notifications for upcoming to-do due date, so that I can complete tasks on time. Acceptance Criteria: 1. The user can enable or disable notifications for a specific to-do. 2. A notification is triggered a set time before the due date. 3. Notifications display the title and due date of the to-do.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story is oversized as it combines multiple features related to notifications; consider breaking it down for clarity and focus."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for timely task completion in the ToDo app."
     }
   ],
   "347572": [
@@ -1172,13 +1108,13 @@
         "ui-polish"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. This request is cosmetic and not essential for the core functionality of the ToDo app."
+      "feedback": "This request is more of a cosmetic feature rather than essential functionality for the app. Consider prioritizing core features that enhance task management instead. (-2)"
     },
     {
       "userStory": "As a user I want to be able to create a hierarchy of to dos so I can have my shopping as a to do and the shopping list inside that to do.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the task management capabilities of the ToDo app effectively."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing the need for organized task management in the ToDo app."
     }
   ],
   "355522": [
@@ -1188,13 +1124,13 @@
         "ui-polish"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. This story is more cosmetic than essential; consider focusing on core functionalities like task creation and management instead."
+      "feedback": "This feature is more of a cosmetic addition rather than essential functionality for the app. It may help users, but it doesn't directly contribute to the core tasks of the app (-2)."
     },
     {
       "userStory": "As a user that uses the app both privately and at work, I want to create and switch between multiple profiles, so that I can sort ToDos by context.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the app's functionality by allowing users to manage tasks by context effectively."
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing the need for context-based organization in the ToDo app. Great job!"
     }
   ],
   "355627": [
@@ -1202,7 +1138,7 @@
       "userStory": "As a user, I want a team tab so that I can have a To-Do list where all the members of my team can see the objectives of the project.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing collaboration within the ToDo app by allowing team visibility on project objectives."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the To-Do app, effectively addressing team collaboration needs."
     },
     {
       "userStory": "As a user, I want a phone widget so that I can see my tasks directly on my home screen when I open my phone.",
@@ -1210,7 +1146,7 @@
         "ui-polish"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. This feature is cosmetic and not essential to the core functionality of the ToDo app."
+      "feedback": "This feature is more of a cosmetic addition rather than essential functionality for the app. Consider focusing on core features that enhance task management instead. (-2)"
     }
   ],
   "355664": [
@@ -1218,15 +1154,16 @@
       "userStory": "As a user, I want to have a notification when I am close to one of my to-dos on the map, so that I can take advantage of being close to my task to do it quickly.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! The story is clear, relevant, and aligns well with the app's functionality, enhancing user engagement with their tasks."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively enhancing user experience by integrating location-based notifications for to-dos."
     },
     {
-      "userStory": "As a user, I want to have a \\",
+      "userStory": "As a user, I want to have a \"a progress bar\" that increases when I complete a task, so that I can feel that I am progressing and that the end of my tasks is near.",
       "tags": [
-        "vague"
+        "ui-polish",
+        "typo"
       ],
-      "grade": 3,
-      "feedback": "Grade 3/5. The story is vague; please specify clearer actions or outcomes related to task management in the ToDo app."
+      "grade": 2,
+      "feedback": "The progress bar is a cosmetic feature that isn't essential for the app's core functionality (-2). Additionally, the phrase \"a progress bar\" contains a typo that reduces clarity (-1)."
     }
   ],
   "355677": [
@@ -1234,15 +1171,13 @@
       "userStory": "As a user, I want to be able to prioritize my task list so that I can focus on the most important one.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the app's functionality by allowing users to focus on important tasks."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users can effectively prioritize their tasks."
     },
     {
       "userStory": "As member of a team, I want to be able to assign tasks to other team members so that we can work together.",
-      "tags": [
-        "role-mismatch"
-      ],
-      "grade": 2,
-      "feedback": "Grade 2/5. The role of a team member is not appropriate for a personal ToDo app; consider focusing on individual task management features."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, emphasizing collaboration within the team."
     }
   ],
   "355687": [
@@ -1250,13 +1185,13 @@
       "userStory": "As a user, I want to set reminders for my ToDos, so that I don't miss important deadlines.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the ToDo app's functionality by addressing important task management needs."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing a key user need effectively."
     },
     {
       "userStory": "As a user, I want to set priority levels for my ToDos, so that I can focus on the most important tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by allowing users to prioritize their ToDos effectively."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for prioritizing tasks in the ToDo app."
     }
   ],
   "355689": [
@@ -1264,13 +1199,13 @@
       "userStory": "As a user, I want to assign a priority level to my tasks so that I can focus on completing the most important ones first.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by allowing users to prioritize effectively. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users can prioritize tasks effectively."
     },
     {
       "userStory": "As a user, I want to set reminders for my tasks so that I receive notifications and do not forget to complete them on time.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns perfectly with the core functionalities of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users stay organized and timely with their tasks."
     }
   ],
   "355731": [
@@ -1278,29 +1213,27 @@
       "userStory": "As a user, I want to receive notifications for upcoming ToDos, so that I am reminded to complete tasks on time.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's functionality, enhancing task management through timely reminders."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for timely reminders."
     },
     {
       "userStory": "As a user, I want to create recurring ToDos, so that I don’t have to manually create the same task every time it repeats.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This feature enhances task management and is relevant to the app's purpose, providing clear value to users."
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing a common need for efficiency in task management within the ToDo app."
     }
   ],
   "355739": [
     {
       "userStory": "As a user, I want to export my ToDos as a CSV or PDF file so that I can share or print my task lists.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines multiple features (CSV and PDF export) and is oversized; consider separating them for clarity and focus."
+      "tags": [],
+      "grade": 5,
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing the need for exporting tasks in a ToDo app. Great job!"
     },
     {
       "userStory": "As a user, I want to pin specific ToDos to the top of my list so that I can always see my most important tasks first.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task visibility in the ToDo app by prioritizing important tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for prioritizing important tasks in the ToDo app."
     }
   ],
   "355741": [
@@ -1308,15 +1241,15 @@
       "userStory": "As a user, I want to be able to create a shared to-do list with my flatmates, so that we can all see what needs to be done in the apartment.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and fits well within the app's scope, enhancing collaboration among users."
+      "feedback": "This user story is clear, relevant, and well-scoped for the ToDo app, effectively addressing the need for collaborative task management among flatmates."
     },
     {
       "userStory": "As a user, I want to be able to assign a music playlist to each to-do list, so that I can listen to it while completing the tasks.",
       "tags": [
-        "ui-polish"
+        "irrelevant"
       ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This feature is cosmetic and not essential to the core functionality of the ToDo app."
+      "grade": 0,
+      "feedback": "This feature is outside the app's scope, as it focuses on task management rather than music playlists. Please align your user story with the core functionalities of the ToDo app. (-5)"
     }
   ],
   "355929": [
@@ -1324,7 +1257,7 @@
       "userStory": "As a user, I want to share my to-dos, so that I can set my objectives with my team.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, aligning well with the collaborative features that enhance the ToDo app's functionality."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively highlighting the importance of team collaboration."
     },
     {
       "userStory": "As a user, I want to have a home screen widget showing my tasks, so that I can access my tasks without opening the app.",
@@ -1332,7 +1265,7 @@
         "ui-polish"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. This feature is cosmetic and not essential for the core functionality of the ToDo app."
+      "feedback": "This feature is more of a cosmetic addition rather than essential functionality for the app. Consider focusing on core features first before adding widgets like this. (-2)"
     }
   ],
   "355938": [
@@ -1342,13 +1275,13 @@
         "duplicate"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing login features and does not focus on task management, which is the core of the ToDo app."
+      "feedback": "This user story repeats an existing feature related to login, which is already covered in the app's functionality. Therefore, it receives a penalty for duplication (-5). Please provide a unique story."
     },
     {
       "userStory": "As a user with ADHD, I want to receive reminder notifications at a chosen frequency, so that I do not forget my tasks or feel pressured by deadlines.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, addressing a crucial feature for task management that enhances user experience."
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing the needs of users with ADHD in the ToDo app. Great job!"
     }
   ],
   "355965": [
@@ -1356,13 +1289,13 @@
       "userStory": "As a user, I want to have time slots for the different to-dos I have, such that I can plan when to do those throughout my day.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by allowing users to plan their day effectively."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for time management."
     },
     {
       "userStory": "As a user, I want to receive notifications about my to-dos, such that I can be reminded of the to-dos.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the ToDo app by adding essential reminders for tasks."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users stay on top of their tasks."
     }
   ],
   "356004": [
@@ -1372,13 +1305,13 @@
         "typo"
       ],
       "grade": 4,
-      "feedback": "Grade 4/5. The request contains typos that reduce clarity; please revise for better understanding of the desired alarm feature for tasks."
+      "feedback": "There are a few spelling and grammar errors in your story that reduce clarity, such as \"no forget\" and \"some to to-do activities\" (-1). Please revise for better readability."
     },
     {
       "userStory": "As a user, I want to create a hierarchy of activities so that I can easily see which activities should be done first.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by prioritizing activities effectively within the app's scope."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for prioritizing activities."
     }
   ],
   "356008": [
@@ -1388,13 +1321,13 @@
         "typo"
       ],
       "grade": 4,
-      "feedback": "Grade 4/5. The story contains a typo (\"task\" should be \"tasks\"), which reduces clarity in the context of task management."
+      "feedback": "There is a minor spelling error in \"task\" where it should be \"tasks.\" This typo reduces clarity and affects the overall quality of the user story (-1)."
     },
     {
       "userStory": "As a totally normal user, I want to be able to create secret tasks that can only be seen after entering a dedicated passcode so my completely acceptable daily tasks are not accessible to anyone who has access to my unlocked phone.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, effectively addressing a unique feature that enhances task privacy within the app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing user privacy effectively."
     }
   ],
   "356029": [
@@ -1402,61 +1335,55 @@
       "userStory": "As a user, I want to set reminders for my to-dos, so that I can be notified about important tasks and deadlines",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! Your user story is clear, relevant, and fits well within the scope of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for reminders and notifications."
     },
     {
       "userStory": "As a user, I want to categorize my to-dos with tags and labels, so that I can easily organize and filter my tasks based on different criteria.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and fits well within the scope of the ToDo app, enhancing task organization."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for organizing and filtering tasks in the ToDo app."
     }
   ],
   "356106": [
     {
       "userStory": "As a user, I want to be able to set a reminder time and have reminders for my tasks to do so that I can receive notifications about deadlines or alerts at the specified time.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines multiple features—setting reminders and receiving notifications—making it oversized; please separate them for clarity."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for reminders and notifications."
     },
     {
       "userStory": "As a user, I want to categorize my tasks so that I can organize them by type or group and filter them easily.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns well with the app's functionality for organizing tasks."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing user organization and task management."
     }
   ],
   "356158": [
     {
       "userStory": "As a user, I want to work collaboratively on to-do lists so that I can share tasks with others, assign tasks to others, and track progress on tasks.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines too many features at once, making it oversized; consider breaking it down into smaller, focused tasks."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, highlighting essential collaborative features."
     },
     {
       "userStory": "As a user, I want my to-do lists to offer personalized task suggestions based on my routine and habits so that I don't have to input every recurring task manually.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the app's functionality by addressing personalized task management effectively."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for personalized task management in the ToDo app."
     }
   ],
   "356284": [
     {
-      "userStory": "As a user, I want to mark a to-do as \\",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This user story is incomplete and vague; please specify the action or outcome for marking a to-do."
+      "userStory": "As a user, I want to mark a to-do as \"done\" so that I can easily keep track of tasks I have completed and focus on pending ones.",
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for task management."
     },
     {
       "userStory": "As a user, I want to set reminders for my to-dos so that I can receive notifications before a task is due.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and fits well within the scope of the ToDo app, enhancing task management effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for reminders and notifications."
     }
   ],
   "356302": [
@@ -1464,29 +1391,27 @@
       "userStory": "As a user, I want to share my ToDos items with others, so that I can collaborate on tasks and keep everyone involved updated.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and fits well within the scope of the ToDo app, promoting collaboration effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, emphasizing collaboration and task sharing effectively."
     },
     {
       "userStory": "As a user, I want to add my ToDos items to my phone's calendar based on their due dates, so that I can get reminders and manage my time more effectively.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This story is clear and relevant, enhancing task management by integrating with the calendar for reminders. Great job!"
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing the need for better time management through calendar integration. Great job!"
     }
   ],
   "356352": [
     {
       "userStory": "As a user, I want to mark a ToDo as complete, so that I can keep track of which tasks are done.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates an existing feature of marking tasks as complete, which is already supported in the app."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs."
     },
     {
       "userStory": "As a user, I want to access my ToDos even without an internet connection, so that I can use the app offline.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns perfectly with the app's functionality, enhancing the offline experience for users."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing the need for offline access in the ToDo app."
     }
   ],
   "356356": [
@@ -1494,13 +1419,13 @@
       "userStory": "As a user, I want to receive notifications for upcoming to-dos, so that I can be reminded of tasks I need to complete.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the ToDo app by adding a valuable reminder feature for task management."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for task reminders."
     },
     {
       "userStory": "As a user, I want to share my to-dos with other users, so that we can collaborate on tasks together.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the collaborative features that enhance the ToDo app experience."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for collaboration in the ToDo app, enhancing user experience and teamwork."
     }
   ],
   "356365": [
@@ -1508,15 +1433,13 @@
       "userStory": "As a user, I want to receive notifications for upcoming to-dos, so that I am reminded of tasks that are due soon.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns perfectly with the core functionality of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for timely reminders."
     },
     {
-      "userStory": "As a user, I want to be able to filter my to-dos by categories such as \\",
-      "tags": [
-        "vague"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. The request for filtering by categories is vague; please specify the actions or outcomes you envision for this feature."
+      "userStory": "As a user, I want to be able to filter my to-dos by categories such as \"Work,\" \"Personal,\" or \"Urgent,\" so that I can easily manage and prioritize my tasks.",
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for task management in the ToDo app."
     }
   ],
   "356449": [
@@ -1524,50 +1447,44 @@
       "userStory": "As a user, I want to be able to have shared to-do lists, so that I can plan group tasks with other users.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's purpose of managing tasks collaboratively. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing collaboration among users effectively."
     },
     {
       "userStory": "As a user, I want to be able to set up a due date for my tasks, so that I know which task to prioritize.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing functionality for task prioritization and does not introduce a new feature for the ToDo app."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing user prioritization effectively."
     }
   ],
   "356522": [
     {
       "userStory": "As a user, I want to be able to delete ToDos I have not completed but are no longer relevant to me, so that I can keep my list clean and organized.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates an existing feature for task management and does not introduce new functionality for the ToDo app."
+      "tags": [],
+      "grade": 5,
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing the need for organization in the ToDo app. Great job!"
     },
     {
       "userStory": "As a user, I want to be able to share my ToDos with others, so that I can collaborate with them on tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing collaboration within the ToDo app's functionality. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for collaboration features in the ToDo app."
     }
   ],
   "356523": [
     {
       "userStory": "As a blind person, I want to be able to input notes vocally and hear the inputed notes so that the app is accessible to me.",
-      "tags": [
-        "oversized",
-        "typo"
-      ],
-      "grade": 2,
-      "feedback": "Grade 2/5. The story combines multiple features—vocal input and audio feedback—making it oversized; please clarify specific actions or outcomes related to task management."
+      "tags": [],
+      "grade": 5,
+      "feedback": "This story is clear, relevant, and well-scoped, effectively addressing accessibility needs for blind users in the ToDo app. Great job!"
     },
     {
       "userStory": "As a customer, I want to be able to have automatic monthly billing for the app so that the payment process is as easy as possible.",
       "tags": [
-        "irrelevant"
+        "irrelevant",
+        "role-mismatch"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story is irrelevant as it falls outside the scope of the ToDo app's core functionalities."
+      "feedback": "This request is outside the app's scope, as it focuses on billing rather than task management features (-5). Additionally, the role of \"customer\" is not appropriate for a user story in this context (-3)."
     }
   ],
   "356574": [
@@ -1577,7 +1494,7 @@
         "ui-polish"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. This request is cosmetic and not essential for the core functionality of the ToDo app."
+      "feedback": "This request is more of a cosmetic feature rather than essential functionality for the app. Consider prioritizing core features that enhance usability first. (-2)"
     },
     {
       "userStory": "As a busy office worker, I want to be able to receive notifications of the to Do items so that I don't have to check my phone all the time.",
@@ -1585,7 +1502,7 @@
         "typo"
       ],
       "grade": 4,
-      "feedback": "Grade 4/5. The request for notifications is relevant, but please clarify specific actions or outcomes related to task management."
+      "feedback": "There's a minor spelling error in your story that affects clarity. Please double-check your wording to ensure it's clear and professional. This results in a point penalty of -1."
     }
   ],
   "356653": [
@@ -1593,15 +1510,13 @@
       "userStory": "As a user, I want to be able to organize my to-dos in categories, so that I can better manage tasks based on their type.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns well with the app's purpose of task management."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for better task management in the ToDo app."
     },
     {
       "userStory": "As a user, I want to add due dates to my to-dos, so that I can keep track of every deadline and manage my time more efficiently.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing features related to task management and does not introduce any new functionality for the ToDo app."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for deadline management in the ToDo app."
     }
   ],
   "356671": [
@@ -1609,13 +1524,13 @@
       "userStory": "As a user, I want to be able to put priority levels on my to-dos, so that I can focus on the most important tasks first.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by allowing users to prioritize effectively. Great job!"
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing the need for prioritization in task management. Great job!"
     },
     {
       "userStory": "As a user, I want to set reminders on my to-dos, so that I can receive notifications before a task is due.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great addition! Setting reminders enhances task management and aligns perfectly with the app's purpose of helping users stay organized."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for reminders."
     }
   ],
   "356771": [
@@ -1623,31 +1538,27 @@
       "userStory": "As a user, I want to organize my to-dos into custom categories, so that I can group related tasks and navigate more easily through my list.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and enhances task organization within the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and appropriately scoped, making it easy to understand the value of custom categories for task organization."
     },
     {
       "userStory": "User Story: As a user, I want to set deadlines for my to-dos and view them on a calendar, so that I can easily track due dates and plan my schedule accordingly.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This user story combines too many features at once, such as deadlines and calendar views, which should be separated for clarity."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The user story is clear, relevant, and appropriately scoped for the ToDo app, effectively addressing user needs for deadline management."
     }
   ],
   "356844": [
     {
       "userStory": "As a user, I want to share my to-dos with my friends, so that we can make tasks in common.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines too many features at once; please focus on a single task-related action for clarity."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, emphasizing collaboration and shared responsibilities."
     },
     {
       "userStory": "As a user, I want to assign importance to my to-dos, so that I can prioritize what I do.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task prioritization in the ToDo app effectively. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for prioritization."
     }
   ],
   "357154": [
@@ -1655,31 +1566,27 @@
       "userStory": "As a user, I want to receive notifications, so that I can get reminded of my ToDos before a deadline",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! The user story is clear, relevant, and aligns well with the app's purpose of managing tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for deadline reminders."
     },
     {
       "userStory": "As a team member, I want to share a ToDos list, so that we can better plan our work as a team",
-      "tags": [
-        "role-mismatch"
-      ],
-      "grade": 2,
-      "feedback": "Grade 2/5. The role of \"team member\" is not appropriate for this app, which focuses on individual task management rather than team collaboration."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively highlighting the importance of teamwork in planning."
     }
   ],
   "357236": [
     {
       "userStory": "As a business professional I want to be able to create multiple different lists of ToDos, so that I can separately keep track of my work and personal tasks.",
-      "tags": [
-        "role-mismatch"
-      ],
-      "grade": 2,
-      "feedback": "Grade 2/5. The role of a business professional is not appropriate for this ToDo app, which should focus on general user needs."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing the need for separate work and personal task management in the ToDo app."
     },
     {
       "userStory": "As a user I want to be able to receive notifications based on the severity and importance I assigned to my ToDos, so that I do not forget any major task.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This feature enhances task management by ensuring users stay on top of important ToDos, aligning perfectly with the app's purpose."
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing the need for prioritized notifications in the ToDo app. Great job!"
     }
   ],
   "357241": [
@@ -1687,31 +1594,33 @@
       "userStory": "As a user, I want to assign priority levels to my to-dos, so that I can easily focus on the most important tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns perfectly with the app's purpose of managing tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for prioritizing tasks."
     },
     {
       "userStory": "As a user, I want to set reminders for my to-dos, so that I receive notifications when tasks are due and stay on top of my deadlines.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns perfectly with the app's purpose of helping users manage their tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for reminders and notifications."
     }
   ],
   "357248": [
     {
       "userStory": "As an online shop customer, I want to be able to see reviews of products so that I can be sure of the quality of the product before I buy it.",
       "tags": [
-        "irrelevant"
+        "irrelevant",
+        "role-mismatch"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This user story is irrelevant as it pertains to product reviews, which is outside the scope of a ToDo app."
+      "feedback": "This story is outside the app's scope, as it focuses on product reviews rather than task management features (-5). Additionally, the role of an online shop customer does not match the intended user of a ToDo app (-3)."
     },
     {
       "userStory": "As a streaming service user, I want to generate a monthly report of the movie genres I watched so that I can see what I watched the most.",
       "tags": [
-        "irrelevant"
+        "irrelevant",
+        "role-mismatch"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This user story is irrelevant as it pertains to a streaming service, which is outside the scope of a ToDo app."
+      "feedback": "This user story is outside the app's scope, as it focuses on generating movie reports rather than task management features (-5). Additionally, the role of a streaming service user does not fit the context of a ToDo app (-3)."
     }
   ],
   "357403": [
@@ -1719,7 +1628,7 @@
       "userStory": "User Story: As a user, I want to list my ToDos in order of importance, so that I can prioritize and start with the most important tasks first.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! The user story is clear, relevant, and aligns perfectly with the ToDo app's purpose of task prioritization."
+      "feedback": "Great job! The user story is clear, relevant, and appropriately scoped, effectively highlighting the need for task prioritization in the ToDo app."
     },
     {
       "userStory": "User Story: As a user, I want a satisfying visual or sound effect to play every time I finish a task, So that I can feel a sense of accomplishment and stay motivated to complete more tasks.",
@@ -1727,7 +1636,7 @@
         "ui-polish"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. This request is cosmetic and not essential for the core functionality of the ToDo app."
+      "feedback": "This request focuses on a cosmetic feature rather than essential functionality for the app. While it's nice to have, it doesn't directly contribute to the core task management experience. (-2)"
     }
   ],
   "357772": [
@@ -1737,15 +1646,13 @@
         "duplicate"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing features for editing and deleting tasks, which are already covered in the app's functionality."
+      "feedback": "Your story repeats an existing feature about editing or deleting tasks, which is already covered in the app's functionality. This results in a penalty for duplication (-5). Please provide a unique user story."
     },
     {
       "userStory": "As a user, I want to mark a To-do as complete, so that I can track which tasks I have already finished.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates an existing feature of marking tasks as complete, which is already covered in the app's functionality."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for task tracking."
     }
   ],
   "357825": [
@@ -1755,45 +1662,41 @@
         "duplicate"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing features related to location-based tasks and reminders, which are already covered in the app's functionality."
+      "feedback": "This story repeats an existing feature about location-based tasks, which is why it receives a penalty. Please ensure your user stories introduce new ideas or improvements. (-5)"
     },
     {
       "userStory": "As a frequent traveler, I want the app to notify me when I am near a location tied to a task so that I can complete tasks without having to constantly check the app.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's functionality, enhancing task completion for travelers."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for enhancing the ToDo app's functionality for frequent travelers."
     }
   ],
   "357838": [
     {
       "userStory": "As a user, I want to add a deadline to a task, so that I’m aware of its priority.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing functionality for task management and does not introduce a new feature for the ToDo app."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing user awareness of task priorities."
     },
     {
       "userStory": "As a user, I want to be able to set reminders for a specific task, so that I can complete it before its deadline.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and fits perfectly within the scope of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing a key user need effectively."
     }
   ],
   "358017": [
     {
       "userStory": "As a user, I want to be able to set due dates to my ToDos, so that I can keep track of when tasks need to be completed.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing functionality for task management and does not introduce a new feature for the ToDo app."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing a key feature for enhancing task management in the ToDo app."
     },
     {
       "userStory": "As a user, I want to assign priority levels to my ToDos, so that I can focus on the most important tasks first.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns perfectly with the app's functionality for task management."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for enhancing the ToDo app's functionality by prioritizing tasks effectively."
     }
   ],
   "358100": [
@@ -1801,13 +1704,13 @@
       "userStory": "As a user, I want to see my ToDos due date in my phone's calendar so that I can easily see my work for the week.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the ToDo app's functionality by integrating with the phone's calendar for better task management."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing user experience by integrating with the phone's calendar."
     },
     {
       "userStory": "As a user, I want to get notifications when I'm getting close to the due date of my ToDos, so that I don't forget to do them.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns perfectly with the ToDo app's functionality, enhancing user engagement with timely reminders."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for timely reminders."
     }
   ],
   "358113": [
@@ -1815,7 +1718,7 @@
       "userStory": "As a user, I would like to receive reminders for my tasks such that I can ensure I complete them on time.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's purpose of helping users manage their tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for timely task completion."
     },
     {
       "userStory": "As a user, I would like to create tasks which are linked to a specific location such that I can get reminders while passing through those places.",
@@ -1823,23 +1726,21 @@
         "duplicate"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing features of task creation and location linking, lacking new value for the ToDo app."
+      "feedback": "This user story repeats an existing feature of creating tasks linked to locations, which is already covered in the app's functionality. Please revise to introduce a new idea. (-5)"
     }
   ],
   "358115": [
     {
       "userStory": "As a user, I want to filter my to-dos by categories, so that I can easily view and prioritize my tasks based on closest due date, nearest location, or current status.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines too many features at once; consider separating the filtering by due date, location, and status into distinct user stories."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for task prioritization and organization in the ToDo app."
     },
     {
       "userStory": "As a user, I want to receive push notifications on my device when a to-do is due within the next 24 hours, so that I can be reminded to complete it on time.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and fits well within the scope of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for timely reminders."
     }
   ],
   "358118": [
@@ -1847,15 +1748,13 @@
       "userStory": "As a user, I want a focus mode that shows only tasks relevant to my current location, so I can avoid distractions from unrelated tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This feature enhances task relevance based on location, improving focus and usability within the app's context. Great job!"
+      "feedback": "This user story is clear, relevant, and well-scoped for the ToDo app, effectively addressing the need for location-based task management."
     },
     {
       "userStory": "As student, I want to be able to categorize tasks by subject, so I can easily find tasks related to a specific course.",
-      "tags": [
-        "role-mismatch"
-      ],
-      "grade": 2,
-      "feedback": "Grade 2/5. The role of \"student\" is not appropriate for a general ToDo app; consider a more universal user role."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, making task organization intuitive for students."
     }
   ],
   "358213": [
@@ -1865,7 +1764,7 @@
         "duplicate"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates an existing feature for logging in, which is already covered in the app's functionality."
+      "feedback": "This user story repeats an existing feature, which is why it received a penalty. Please ensure your stories introduce new ideas or improvements to avoid duplication. (-5)"
     },
     {
       "userStory": "As an active person, I want to add new tasks with specific locations on a map so that I can visualize where each task needs to be completed and plan my route accordingly.",
@@ -1873,7 +1772,7 @@
         "duplicate"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing features of adding tasks and viewing them on a map, lacking new value for the ToDo app."
+      "feedback": "This user story repeats an existing feature of adding tasks with locations, which is already covered in the app's functionality. This results in a penalty for duplication (-5)."
     }
   ],
   "358245": [
@@ -1881,15 +1780,13 @@
       "userStory": "As a user, I want to be able to share to-dos with some chosen other users so that we can work together on a shared task.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the collaborative features that enhance the ToDo app experience."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, emphasizing collaboration and shared tasks effectively."
     },
     {
       "userStory": "As a user, I want to start a timer on a to-do when I am working on it and stop it when I have finished so that I can track the time I spent on this task.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines multiple features—starting and stopping a timer—which makes it oversized; consider separating them for clarity."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for time tracking."
     }
   ],
   "358440": [
@@ -1897,34 +1794,29 @@
       "userStory": "As a team leader user, I want to assign my ToDos to team members so that the tasks are distributed efficiently.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's purpose of task management. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing task distribution among team members."
     },
     {
       "userStory": "As a user, I want to assign my ToDos deadlines and reminders so that I can complete each task on time.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines multiple features—deadlines and reminders—making it oversized; consider separating them for clarity and focus."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for deadlines and reminders in the ToDo app."
     }
   ],
   "358469": [
     {
       "userStory": "As a student, I would like to have push notifications to remind me when my deadlines are getting close.",
-      "tags": [
-        "role-mismatch"
-      ],
-      "grade": 2,
-      "feedback": "Grade 2/5. The role of \"student\" is not appropriate for this ToDo app, which should focus on general task management for all users."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing student needs for deadline reminders."
     },
     {
       "userStory": "As a CEO, I want my ToDo's to be separable by topic so that I am not overwhelmed by the amount of task.",
       "tags": [
-        "role-mismatch",
         "typo"
       ],
-      "grade": 1,
-      "feedback": "Grade 1/5. The role of CEO is not appropriate for a ToDo app; please provide a relevant user role and clearer task-related actions."
+      "grade": 4,
+      "feedback": "There is a spelling error in \"ToDo's\" which should be \"To-Dos.\" This typo reduces clarity in your user story. Please correct it for a better understanding of your request. (-1)"
     }
   ],
   "358484": [
@@ -1932,13 +1824,13 @@
       "userStory": "As an organized user, I want to prioritize my ToDos, so that I can focus on the most important tasks first.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, emphasizing the importance of task prioritization in the ToDo app. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, emphasizing prioritization for effective task management."
     },
     {
       "userStory": "As a collaborative user, I want to collaborate on ToDos with others, so that we can share tasks and work together more effectively.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's collaborative features, enhancing task sharing and teamwork."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, emphasizing collaboration and shared tasks effectively."
     }
   ],
   "358495": [
@@ -1946,23 +1838,21 @@
       "userStory": "As a user, I want to view my to-dos on a calendar, so that I can better visualize the due dates and not fall behind schedule.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and fits well within the scope of the ToDo app, enhancing task visualization."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing user experience with effective visualization of due dates."
     },
     {
       "userStory": "As a user, I want the to-do app to send notifications for upcoming to-do, so that I don't forget any imminent due dates.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! The user story is clear, relevant, and aligns perfectly with the app's purpose of managing tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for timely notifications in the to-do app."
     }
   ],
   "359286": [
     {
       "userStory": "As a user, I want to share and update To-dos to my friends so that tasks can be done by many people at the same time",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines too many features at once; consider separating sharing and updating tasks for clarity and focus on the ToDo app's core functionalities."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, emphasizing collaboration and shared responsibility."
     },
     {
       "userStory": "As a user, I want to configure and receive reminder to specific tasks in the To-dos so that I do not forget to do a task planned for a specific date/time",
@@ -1970,7 +1860,7 @@
         "typo"
       ],
       "grade": 4,
-      "feedback": "Grade 4/5. The request contains a typo (\"reminder to specific tasks\" should be \"reminders for specific tasks\"), which reduces clarity."
+      "feedback": "There is a spelling error in \"reminder to specific tasks,\" which should be \"reminders for specific tasks.\" Such errors can reduce clarity in your story. (Penalty: -1)"
     }
   ],
   "359358": [
@@ -1978,13 +1868,13 @@
       "userStory": "As a user, I want to be notified when a To-Do deadline approaches, so that I am reminded to complete it.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns perfectly with the core functionality of the ToDo app."
+      "feedback": "This user story is clear, relevant, and appropriately scoped, effectively addressing a key feature that enhances user engagement with the To-Do app."
     },
     {
       "userStory": "As a user, I want to categorize my To-Dos into different projects, so that I can organize my tasks better.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's goal of task organization. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing the need for better task organization in the ToDo app."
     }
   ],
   "359392": [
@@ -1994,13 +1884,13 @@
         "typo"
       ],
       "grade": 4,
-      "feedback": "Grade 4/5. The repeated \"want to\" and \"be\" reduces clarity; please revise for better readability in the context of logging out."
+      "feedback": "There are a couple of typos in your story, specifically \"want to want to\" and \"be be.\" These spelling errors reduce clarity and should be corrected for a better understanding of your request. (-1)"
     },
     {
       "userStory": "As a user, I want to be able to switch accounts to share the application with other users without having to log out or use another device.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This feature enhances user experience by allowing seamless account switching, which is relevant and valuable for collaborative task management in the app."
+      "feedback": "This user story is clear, relevant, and appropriately scoped for the ToDo app, enhancing user experience by facilitating seamless account switching."
     }
   ],
   "359393": [
@@ -2010,13 +1900,13 @@
         "typo"
       ],
       "grade": 4,
-      "feedback": "Grade 4/5. The request to see ToDos on a calendar is outside the app’s current scope, which focuses on task management features."
+      "feedback": "There’s a small spelling error in \"calender,\" which should be \"calendar.\" This typo reduces clarity and affects the overall quality of your user story (-1)."
     },
     {
       "userStory": "As a user, I want to be able to highlight the most important ToDos, so that I can choose which ToDos to accomplish first.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great clarity and relevance; prioritizing ToDos will enhance user experience and task management in the app."
+      "feedback": "Great job! The story is clear, relevant, and appropriately scoped, making it easy to understand the user's needs for prioritizing ToDos."
     }
   ],
   "359826": [
@@ -2024,31 +1914,29 @@
       "userStory": "As a user, I want to collaborate and share my to-dos with others so that we can view and edit them together.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing collaboration features in the ToDo app effectively. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, emphasizing collaboration and shared editing effectively."
     },
     {
       "userStory": "As a user, I want to receive a notification when a task deadline is approaching, has passed, or for reminders, so that I avoid missing important tasks.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines multiple features—notifications for deadlines, reminders, and overdue tasks—making it oversized; please separate them for clarity."
+      "tags": [],
+      "grade": 5,
+      "feedback": "This user story is clear, relevant, and well-scoped for the ToDo app, effectively addressing the need for timely task notifications. Great job!"
     }
   ],
   "360551": [
     {
       "userStory": "As a user with many tasks, I want to sort and filter my ToDos based on priority, due date, or location so that I can manage my tasks more efficiently.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines too many features at once; consider breaking it down into separate sorting and filtering tasks for clarity."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for task management."
     },
     {
       "userStory": "As a user who frequently travels, I want to set location-based reminders so that I am reminded to complete tasks when I arrive at specific locations.",
-      "tags": [],
-      "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's functionality, enhancing the task management experience for traveling users."
+      "tags": [
+        "duplicate"
+      ],
+      "grade": 0,
+      "feedback": "This user story repeats an existing feature of location-based reminders, which is already covered in the app's functionality. Therefore, it receives a penalty for being a duplicate (-5)."
     }
   ],
   "360667": [
@@ -2056,13 +1944,13 @@
       "userStory": "As a user, I want to set a task to repeat at regular intervals of my choosing, so that it continues until a specified end date.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and well within the scope of the ToDo app, enhancing task management effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing user needs effectively."
     },
     {
       "userStory": "As an organized user, I want to categorize my ToDos by adding tags, so that I can toggle between viewing all ToDos or only those with a specific tag.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and enhances the app's functionality by allowing better organization of tasks through tagging."
+      "feedback": "Great job! The story is clear, relevant, and appropriately scoped, effectively addressing user needs for better organization in the ToDo app."
     }
   ],
   "360700": [
@@ -2070,50 +1958,41 @@
       "userStory": "As a user, I want to be able to chain ToDos (have a new to-do I wrote before appear once another one is finished) so that I can organize my day in a successive manner and not feel overwhelmed",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's purpose of task management and organization."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for organization and task management."
     },
     {
       "userStory": "As an admin, I want to be able to add ToDos to multiple employees at the same time so that I can be more efficient and coordinate employees",
-      "tags": [
-        "oversized",
-        "role-mismatch"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. The admin role is not appropriate for a personal ToDo app, which focuses on individual task management."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, enhancing efficiency in coordinating tasks for multiple employees."
     }
   ],
   "360864": [
     {
       "userStory": "As a user, I want to be able to filter my task, so that I can separate the different types of tasks.",
-      "tags": [
-        "typo"
-      ],
-      "grade": 4,
-      "feedback": "Grade 4/5. The typo in \"filter my task\" should be corrected to \"filter my tasks\" for clarity."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for task organization."
     },
     {
       "userStory": "As a user, I want to receive notification from the app, so that I can be reminded of my tasks yet to fulfill.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! The story is clear, relevant, and aligns well with the app's purpose of task management."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for a ToDo app, effectively addressing user needs for task reminders."
     }
   ],
   "361013": [
     {
       "userStory": "As a user, I want to set deadlines for my to-dos, so that I can keep track of when tasks are due and manage my time effectively.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates existing functionality for task management and does not introduce a new feature for the ToDo app."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and appropriately scoped, effectively addressing user needs for deadline management in the ToDo app."
     },
     {
       "userStory": "As a user, I want to mark to-dos as completed, so that I can track my progress and keep my list organized.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates an existing feature of marking tasks as completed, which is already part of the app's functionality."
+      "tags": [],
+      "grade": 5,
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing a key feature for enhancing organization and progress tracking in the ToDo app."
     }
   ],
   "361075": [
@@ -2121,13 +2000,13 @@
       "userStory": "As a user, I want to be alerted when I am near the location of a task, so I can be reminded to complete it based on my current surroundings.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns perfectly with the app's functionality for task management."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing user experience with timely location-based reminders."
     },
     {
       "userStory": "As a user, I want to share my to-do items with others, so that we can work together on tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing collaboration within the ToDo app's task management features."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, emphasizing collaboration on tasks effectively."
     }
   ],
   "361089": [
@@ -2135,13 +2014,13 @@
       "userStory": "As a user, I want to schedule my to-dos so that I can plan my day.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This story is clear and relevant, enhancing the app's functionality by allowing users to better plan their tasks."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for daily planning."
     },
     {
       "userStory": "As a user, I want to have a reminder so that I can remember my to-dos.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the ToDo app's functionality by adding a valuable reminder feature."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for reminders."
     }
   ],
   "361104": [
@@ -2149,13 +2028,13 @@
       "userStory": "As a user, I want to set priority levels for my to-dos so that I can focus on completing the most important tasks first.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns perfectly with the app's purpose of task management. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, emphasizing the importance of prioritizing tasks effectively."
     },
     {
       "userStory": "As a user, I want to set reminders for my to-dos so that I get notifications when a task is approaching its due date.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the ToDo app by adding valuable reminder functionality for task management."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users can effectively manage their tasks."
     }
   ],
   "361249": [
@@ -2163,13 +2042,13 @@
       "userStory": "As a user, I want to receive notifications for upcoming tasks, so that I can stay on top of my to-dos.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and fits well within the app's scope, enhancing task management effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users stay organized and informed."
     },
     {
       "userStory": "As a user, I want to filter my to-dos by status, so that I can easily see what I need to work on.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! The user story is clear, relevant, and aligns well with the ToDo app's functionality."
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing a key functionality for enhancing the ToDo app's usability. Great job!"
     }
   ],
   "361312": [
@@ -2179,31 +2058,27 @@
         "typo"
       ],
       "grade": 4,
-      "feedback": "Grade 4/5. The typo in \"i\" should be corrected to \"I\" for clarity, enhancing the user story's professionalism."
+      "feedback": "There's a small spelling error in \"i\" which should be capitalized as \"I.\" This typo reduces clarity and affects the overall professionalism of the story. (penalty: -1)"
     },
     {
       "userStory": "As an organized user, I want to be able to classify/label my Todos, so that i can prioritize some tasks over others.",
-      "tags": [
-        "typo"
-      ],
-      "grade": 4,
-      "feedback": "Grade 4/5. The typo in \"i\" reduces clarity; please correct it to enhance the user story's effectiveness."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing the need for task prioritization in the ToDo app."
     }
   ],
   "361361": [
     {
       "userStory": "As a user, I want to be able to mark my ToDos as complete when I finish them, so I can track which tasks have been finished.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates an existing feature of marking tasks as complete in the ToDo app."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for task tracking."
     },
     {
       "userStory": "As a user, I want to be able to categorize my ToDos by priority level (e.g. low, medium and high priority), so I can manage my tasks based on their importance.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and fits well within the scope of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and appropriately scoped, effectively addressing user needs for prioritizing tasks in the ToDo app."
     }
   ],
   "361384": [
@@ -2213,13 +2088,13 @@
         "ui-polish"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. This feature is outside the app’s scope, as it focuses on augmented reality rather than essential task management functionalities."
+      "feedback": "This idea is a cosmetic feature, not essential functionality for the app. While it's creative, focusing on core task management features would be more beneficial for users. (-2)"
     },
     {
       "userStory": "As a user, I want AI to automatically break down complex tasks into smaller, actionable steps, so that I can tackle big projects more easily.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the app's functionality by making task management more efficient for users."
+      "feedback": "This user story is clear, relevant, and well-scoped for the ToDo app, effectively addressing the need for manageable task breakdowns."
     }
   ],
   "361396": [
@@ -2227,13 +2102,13 @@
       "userStory": "As a user, I want to create ToDos using voice commands, so that I can add tasks quickly while I’m on the go or when my hands are occupied.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's functionality, enhancing the task creation process for users on the go."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing user needs effectively."
     },
     {
       "userStory": "As a user, I want to collaborate on a ToDos list with others in real-time, so that I can share and manage tasks with my team, family, or friends.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the collaborative features that enhance the ToDo app's functionality."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for a ToDo app, highlighting the importance of real-time collaboration."
     }
   ],
   "361423": [
@@ -2241,13 +2116,13 @@
       "userStory": "As a user, I want to be able to set reminders on my ToDos, so that I receive notifications to complete my tasks on time.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and fits well within the scope of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for timely task completion in the ToDo app."
     },
     {
       "userStory": "As a user, I want to sync my Todos with a calendar, so that I can see them alongside my scheduled events and deadlines.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This story is clear, relevant, and aligns well with the app's purpose of task management. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing user experience by integrating tasks with calendar events."
     }
   ],
   "361496": [
@@ -2255,29 +2130,27 @@
       "userStory": "As a user, I want to see a timeline of my past and future ToDos so that I can visualize my productivity.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This story is clear and relevant, enhancing the app's functionality by providing a visual representation of productivity."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for visualizing productivity in the ToDo app."
     },
     {
       "userStory": "As a user, I want to receive notifications for upcoming due dates so that I can complete tasks on time.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and fits well within the scope of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users stay on track with their tasks."
     }
   ],
   "361516": [
     {
       "userStory": "As a user, I want to create multiple ToDos lists, so that I can classify my tasks. Acceptance Criteria: - The user can create a list and navigate between different list of ToDos.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines too many features at once; focus on either creating lists or navigating between them for clarity."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and appropriately scoped, effectively addressing the need for multiple ToDo lists for better task classification."
     },
     {
       "userStory": "As a user, I want to be able to search ToDos, so that I can find particular tasks I wrote in the past. Acceptance Criteria: - The user can search from any view a particular task and access the information of this task.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! The user story is clear, relevant, and fits well within the scope of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing the user's need to search for specific tasks in the ToDo app."
     }
   ],
   "361517": [
@@ -2285,13 +2158,13 @@
       "userStory": "As a user, I want to be able to merge two lists of ToDos, so that I can consolidate tasks from different sources into a single list.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the app's functionality by allowing users to consolidate tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing a common user need effectively."
     },
     {
       "userStory": "As a user, I want to share my To-Do list with another user, so that we can collaborate on tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the collaborative features that enhance the ToDo app's functionality."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for collaboration in a To-Do app, enhancing user experience effectively."
     }
   ],
   "361582": [
@@ -2301,15 +2174,16 @@
         "ui-polish"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. This welcome tutorial is a cosmetic enhancement; focus on core functionalities like task management instead."
+      "feedback": "The welcome tutorial is a nice touch, but it's more of a cosmetic feature than essential functionality for the app. Consider focusing on core features first. (-2)"
     },
     {
       "userStory": "As an online shopper, I want to save my favorite products to a wishlist so that I can easily access them later and make a purchase decision when I'm ready.",
       "tags": [
-        "irrelevant"
+        "irrelevant",
+        "role-mismatch"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story is irrelevant as it pertains to an online shopping feature, which is outside the scope of a ToDo app."
+      "feedback": "This story is outside the app's scope since it focuses on a wishlist for shopping, which is irrelevant to a ToDo app (-5). Additionally, the role of an online shopper does not fit the app's purpose (-3)."
     }
   ],
   "361595": [
@@ -2317,15 +2191,13 @@
       "userStory": "As a user, I want to easily search a specific ToDo, so that I can quickly find the information I need.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the ToDo app's functionality by improving task accessibility."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users can efficiently find their tasks."
     },
     {
       "userStory": "As a user, I want to set due dates for tasks, so that I can be reminded of upcoming deadlines.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates an existing feature of setting due dates for tasks, which is already covered in the app's functionality."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for task management."
     }
   ],
   "361629": [
@@ -2333,13 +2205,13 @@
       "userStory": "As a user, I want to set reminders for my to-dos, so that I can receive notifications before they are due.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the ToDo app's functionality, enhancing user experience with reminders."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing a key user need effectively."
     },
     {
       "userStory": "As a user, I want to prioritize my to-dos, so that I can focus on the most important tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's purpose of task management. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users can focus on their most important tasks."
     }
   ],
   "361806": [
@@ -2349,13 +2221,13 @@
         "typo"
       ],
       "grade": 4,
-      "feedback": "Grade 4/5. The phrase \"my the phone's calendar app\" contains a typo that reduces clarity; please revise for better understanding."
+      "feedback": "There's a small typo in your story: \"my the phone's calendar app\" should be corrected to \"my phone's calendar app.\" Typos can reduce clarity, so be sure to proofread your work. (-1)"
     },
     {
       "userStory": "As a user, I want to be able to set recurrent tasks which reappear daily, weekly or monthly to my list of ToDos, so that I don't have to re-enter the same tasks every time.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This feature enhances task management and aligns perfectly with the app's purpose, providing clear value to users."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for enhancing the ToDo app with recurrent task functionality."
     }
   ],
   "361831": [
@@ -2363,31 +2235,34 @@
       "userStory": "As a user, I want to receive notifications about upcoming ToDos, so that I can ensure that I complete them on time.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! The user story is clear, relevant, and fits well within the scope of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for timely notifications."
     },
     {
       "userStory": "As a user, I want to set priority levels for my ToDos, so that I can easily identify which ToDos are more important.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by allowing users to prioritize their ToDos effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for enhancing the ToDo app's functionality with priority levels."
     }
   ],
   "361984": [
     {
       "userStory": "As a Microsoft Outlook user, I want to have a tab with all my current subscriptions so that I can more easily unsubscribe from the newsletters that are polluting my inbox.",
       "tags": [
-        "irrelevant"
+        "irrelevant",
+        "role-mismatch"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story is irrelevant as it pertains to managing email subscriptions, which is outside the scope of a ToDo app."
+      "feedback": "This story is outside the app's scope, as it focuses on managing email subscriptions rather than task management (-5). Additionally, the role of a Microsoft Outlook user does not align with the intended users of a ToDo app (-3)."
     },
     {
       "userStory": "As a Youtube user, I want to be able to disable Youtube shorts for my account, so that I don't loose time scrolling on cats shorts.",
       "tags": [
-        "irrelevant"
+        "irrelevant",
+        "role-mismatch",
+        "typo"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story is irrelevant as it pertains to YouTube, not the ToDo app's features like task management or mapping."
+      "feedback": "This story is outside the app's scope, as it addresses a feature for YouTube, not a ToDo app (-5). Additionally, the role of a YouTube user is not appropriate for this app (-3). There’s also a typo in \"loose\" (-1)."
     }
   ],
   "361990": [
@@ -2395,7 +2270,7 @@
       "userStory": "As a user, I want to categorize my ToDos using tags, so that I can filter and organize my tasks efficiently.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns perfectly with the app's goal of efficient task organization."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for task organization in the ToDo app."
     },
     {
       "userStory": "As a user, I want to visualize my ToDos as a progress map, so that I am motivated to complete more of them.",
@@ -2403,7 +2278,7 @@
         "ui-polish"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. The idea of a progress map is cosmetic and not essential to the core functionality of the ToDo app."
+      "feedback": "This feature feels more like a cosmetic addition rather than essential functionality for the app. Consider focusing on core features that enhance task management instead. (-2)"
     }
   ],
   "362178": [
@@ -2411,13 +2286,13 @@
       "userStory": "As a user who frequently works in groups, I want to create tasks with my group members so that we can collaboratively track what needs to be done.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! The story is clear, relevant, and fits well within the app's scope for collaborative task management."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, emphasizing collaboration and task management among group members."
     },
     {
       "userStory": "As a busy user, I want to assign priority levels to tasks so that I can better organize and focus on my most important work.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's purpose of task organization. Great job!"
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing the need for task prioritization in the ToDo app. Great job!"
     }
   ],
   "362180": [
@@ -2425,13 +2300,13 @@
       "userStory": "As a user, I want to share my to-dos with other users, so that I can collaborate on tasks with my team or friends.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing collaboration within the ToDo app's scope. Great job!"
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively highlighting the collaborative aspect of the ToDo app for teamwork and sharing."
     },
     {
       "userStory": "As a user, I want to create a new to-do using voice commands, so that I can quickly add tasks hands-free while on the go.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's goal of enhancing task management on the go."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing user experience with hands-free task management."
     }
   ],
   "362239": [
@@ -2441,15 +2316,13 @@
         "ui-polish"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. This feature is cosmetic and not essential; focus on core functionalities like task creation and management first."
+      "feedback": "This feature is more of a cosmetic enhancement rather than essential functionality for the app. Consider focusing on core features that improve task management instead. (-2)"
     },
     {
       "userStory": "As a professional, I want to create multiple to-do lists so I can separate my work and personal life",
-      "tags": [
-        "role-mismatch"
-      ],
-      "grade": 2,
-      "feedback": "Grade 2/5. The role of \"professional\" is not appropriate for this app; please specify a more relevant user role."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing the need for work-life separation."
     }
   ],
   "362246": [
@@ -2457,13 +2330,13 @@
       "userStory": "As a user, I want to create a to-do folder so that I can group certain related to-dos together.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task organization within the app. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for organization."
     },
     {
       "userStory": "As a user, I want to add programmed notifications to my to-dos so that I can remember to do something at a specific time.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and fits well within the scope of enhancing task management in the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing user experience with timely reminders."
     }
   ],
   "362262": [
@@ -2471,7 +2344,7 @@
       "userStory": "As a user, I want to be able to duplicate a recurring task with custom intervals, so that I can efficiently manage my repetitive tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and well within the scope of the ToDo app, effectively addressing task management needs."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for managing repetitive tasks."
     },
     {
       "userStory": "As a user, I want to assign different colors to categories of tasks, so that I can quickly identify and organize them visually.",
@@ -2479,7 +2352,7 @@
         "ui-polish"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. This feature is cosmetic and not essential for the core functionality of the ToDo app."
+      "feedback": "This feature is more of a cosmetic enhancement rather than essential functionality for the app. Consider prioritizing core features that improve task management instead. (-2)"
     }
   ],
   "362280": [
@@ -2487,29 +2360,27 @@
       "userStory": "As a user, I want to assign different levels of priority to my ToDos, so that I can know what ToDo I should do first.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's purpose of task management. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for prioritizing tasks in the ToDo app."
     },
     {
       "userStory": "As a user, I want to assign an expiration date to my ToDos, so that I don't waste time on a ToDo that is no longer relevant.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by ensuring users prioritize their ToDos effectively."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for managing task relevance."
     }
   ],
   "362341": [
     {
       "userStory": "As a user, I want to filter my ToDos by date and priority so that I can focus on the most urgent tasks.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines multiple features—filtering by date and priority—making it oversized; consider breaking it into separate user stories for clarity."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for prioritizing tasks in the ToDo app."
     },
     {
       "userStory": "As a user, I want to receive notifications for ToDos with upcoming deadlines so that I don't forget to complete them.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the ToDo app by helping users manage deadlines effectively."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for timely reminders in the ToDo app."
     }
   ],
   "362441": [
@@ -2517,29 +2388,27 @@
       "userStory": "As a user, I want to know how much time each pending task will consume.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by providing time estimates for pending tasks. Great job!"
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, enhancing user experience by providing valuable time estimates for tasks."
     },
     {
       "userStory": "As a user, I want to filter my pending tasks based on their urgency.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great clarity and relevance; filtering tasks by urgency enhances user experience and aligns perfectly with the app's functionality."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing a key user need effectively."
     }
   ],
   "362572": [
     {
       "userStory": "As a user, I want to sort my tasks by due date or priority so that I can focus on what is most urgent or important.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines multiple features—sorting by due date and priority—making it oversized; consider separating them for clarity."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users can prioritize tasks effectively."
     },
     {
       "userStory": "As a user, I want to create recurring tasks so that I can automatically generate new tasks for repetitive activities.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the ToDo app's functionality for managing repetitive tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing a common user need effectively."
     }
   ],
   "362885": [
@@ -2549,13 +2418,13 @@
         "duplicate"
       ],
       "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates the existing feature of adding tasks, which is already covered in the app's functionality."
+      "feedback": "This user story repeats an existing feature of adding tasks, which is already covered in the app's functionality. Therefore, it receives a penalty for being a duplicate (-5)."
     },
     {
       "userStory": "As a user, I want to be able to tag my to-dos so that I can easily categorize and filter my to-do list.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! The user story is clear, relevant, and fits well within the scope of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for enhancing the ToDo app's functionality and user experience."
     }
   ],
   "363054": [
@@ -2563,31 +2432,29 @@
       "userStory": "As a user, I want to receive a reminder notification so that I don't forget my tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great clarity and relevance; reminder notifications enhance task management and align perfectly with the app's purpose."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users stay on top of their tasks."
     },
     {
       "userStory": "As a user, I want to be able to add colorful tags to my tasks so that I can more easily plan my priorities.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great idea! Adding colorful tags will enhance task organization and prioritization, aligning perfectly with the app's purpose."
+      "feedback": "Great job! The story is clear, relevant, and appropriately scoped for the ToDo app, enhancing task organization and prioritization effectively."
     }
   ],
   "363088": [
     {
       "userStory": "As a user, I want to be able to assign priority levels to certain tasks and colour code them, to be able to identify more important tasks.",
       "tags": [
-        "oversized"
+        "ui-polish"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. This story combines multiple features—priority levels and color coding—making it oversized; consider separating them for clarity."
+      "feedback": "The ability to assign priority levels and color code tasks is a cosmetic feature, not essential functionality for the app. This results in a penalty for focusing on UI enhancements rather than core features. (-2)"
     },
     {
       "userStory": "As a user, I want to add prerequisites to tasks (task A must be completed before task B) and not be able to start task B while A is not yet completed.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines too many features at once; consider simplifying to focus on either prerequisites or task completion logic."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring effective task management with prerequisites."
     }
   ],
   "363397": [
@@ -2595,13 +2462,13 @@
       "userStory": "As a user, I want to be able to assign a priority to each task in order to better organize my important and less urgent tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and fits well within the scope of the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for enhancing task organization in the ToDo app."
     },
     {
       "userStory": "As a user, I want to receive notifications when a task's deadline is approaching, so that I don't forget my important tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job! This user story is clear, relevant, and aligns perfectly with the app's purpose of helping users manage their tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users stay on top of their important tasks."
     }
   ],
   "363513": [
@@ -2609,13 +2476,13 @@
       "userStory": "As a user, I want to earn points and unlock achievements for completing tasks, so that I stay motivated and engaged with my to-do list.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This story is clear, relevant, and aligns well with the app's goal of enhancing user engagement through task completion."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user motivation and engagement."
     },
     {
       "userStory": "As a user, I want the app to suggest to-dos based on my previous tasks and patterns, so that I can be more efficient in planning my future tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's goal of enhancing task management efficiency."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for enhancing user efficiency in task planning within the ToDo app."
     }
   ],
   "363521": [
@@ -2623,15 +2490,13 @@
       "userStory": "As a user, I want to set tasks to recur at regular intervals (e.g., daily, weekly, monthly), so that I can manage ongoing responsibilities easily.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and fits well within the app's scope, enhancing task management for users."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing a key user need effectively."
     },
     {
       "userStory": "As a user, I want to search for and filter tasks by keywords, due dates, or categories, so that I can quickly find specific tasks.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines too many features at once; consider breaking it down into separate tasks for better clarity and focus."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, ensuring users can efficiently find their tasks."
     }
   ],
   "363568": [
@@ -2641,30 +2506,29 @@
         "ui-polish"
       ],
       "grade": 3,
-      "feedback": "Grade 3/5. This request is cosmetic and not essential for the core functionality of the ToDo app."
+      "feedback": "This request adds a cosmetic feature that enhances usability but isn't essential for core functionality. Consider prioritizing more critical features first. (Penalty: -2)"
     },
     {
       "userStory": "As a user, I want to be able to see my task in a scheduled form so that I can easily understand when the task should be done.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great clarity and relevance; this feature enhances task management by providing a clear schedule for users."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing user needs for task scheduling."
     }
   ],
   "363620": [
     {
       "userStory": "As a user, I want to separate my task in sub-parts with progress tracking so that my ToDos can better represent the tasks that I am doing and i can see how much progress I did for that task.",
       "tags": [
-        "oversized",
         "typo"
       ],
-      "grade": 2,
-      "feedback": "Grade 2/5. The story combines too many features at once, making it unclear how progress tracking will integrate with existing task functionalities."
+      "grade": 4,
+      "feedback": "There is a typo in your story: \"sub-parts\" should be \"subparts\" for clarity. Remember, spelling and grammar errors can reduce understanding. (Penalty: -1)"
     },
     {
       "userStory": "As a user, I want to be able to set reminders in the calendar so that I am reminded to do my ToDos.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This story is clear and relevant, enhancing the ToDo app's functionality by adding a valuable reminder feature."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, effectively addressing user needs for reminders."
     }
   ],
   "363863": [
@@ -2672,13 +2536,13 @@
       "userStory": "As a user, I want my to-dos to be grouped in separate priority tabs, so that I can deal with the most urgent and highest priority items first.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing task management by prioritizing items effectively within the ToDo app."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for prioritizing tasks in the ToDo app."
     },
     {
       "userStory": "As a user, I want to receive a reminder once a day if I have unfulfilled to-do that are due within 2 days, so that I don't forget about any crucial tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great job clearly defining a relevant feature that enhances task management and user engagement within the ToDo app!"
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for timely reminders in the ToDo app."
     }
   ],
   "363873": [
@@ -2686,7 +2550,7 @@
       "userStory": "As a user, I want to have notifications that reminds me which tasks I need to get done.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. Great clarity and relevance; notifications enhance task management in the app, aligning perfectly with user needs."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users stay on track with their tasks."
     },
     {
       "userStory": "As a user, I want to be able to create multiples toDoLists to separate the tasks per activity.",
@@ -2694,7 +2558,7 @@
         "typo"
       ],
       "grade": 4,
-      "feedback": "Grade 4/5. The request to create multiple toDoLists is clear, but the typo in \"multiples\" reduces clarity. Please correct it for better understanding."
+      "feedback": "There is a spelling error in \"multiples,\" which should be \"multiple.\" This reduces clarity in your user story. Please correct it for a better understanding. (-1)"
     }
   ],
   "364142": [
@@ -2702,15 +2566,13 @@
       "userStory": "As a user, I want to set reminders for my ToDos, so that I receive notifications when tasks are due.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns well with the app's functionality, enhancing the task management experience."
+      "feedback": "Great job! The story is clear, relevant, and well-scoped, effectively addressing user needs for reminders in the ToDo app."
     },
     {
       "userStory": "As a user, I want to collaborate on ToDos with other users, so that I can assign tasks to teammates and track their progress.",
-      "tags": [
-        "oversized"
-      ],
-      "grade": 3,
-      "feedback": "Grade 3/5. This story combines too many features at once; focus on specific actions like assigning tasks or tracking progress separately."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and well-scoped for the ToDo app, effectively addressing collaboration and task management needs."
     }
   ],
   "394326": [
@@ -2718,7 +2580,7 @@
       "userStory": "As a very busy user, I want to be able to prioritise to-dos, so that I can focus on the most important tasks first and not be distracted by less important tasks.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear and relevant, enhancing the app's functionality by allowing users to prioritize tasks effectively."
+      "feedback": "This user story is clear, relevant, and well-scoped, effectively addressing the need for prioritization in a ToDo app for busy users."
     },
     {
       "userStory": "As a forgetful user, I want to be able to set deadlines for to-dos which remind me before before they run out, so that I can avoid forgetting tasks or finishing them too late.",
@@ -2726,23 +2588,21 @@
         "typo"
       ],
       "grade": 4,
-      "feedback": "Grade 4/5. The typo in \"before before\" reduces clarity; please revise for better understanding of the deadline reminder feature."
+      "feedback": "There's a small typo in your story: \"before before\" should be corrected to just \"before.\" This kind of error can reduce clarity, so please revise it. (-1)"
     }
   ],
   "394854": [
     {
       "userStory": "As a user, I want to be able to set due dates for my tasks so that I can organize my work based on priority and deadlines.",
-      "tags": [
-        "duplicate"
-      ],
-      "grade": 0,
-      "feedback": "Grade 0/5. This story duplicates an existing feature of task management, which already includes setting due dates."
+      "tags": [],
+      "grade": 5,
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, addressing user needs effectively."
     },
     {
       "userStory": "As a user, I want to receive notifications or reminders for tasks that are nearing their due dates so that I do not forget to complete them on time.",
       "tags": [],
       "grade": 5,
-      "feedback": "Grade 5/5. This user story is clear, relevant, and aligns perfectly with the ToDo app's goal of helping users manage their tasks effectively."
+      "feedback": "Great job! The story is clear, relevant, and perfectly scoped for the ToDo app, ensuring users stay on track with their tasks."
     }
   ]
 }
